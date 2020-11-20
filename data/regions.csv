@@ -1,0 +1,381 @@
+name,gem_id,mobility_region,COVID2104_region,COVID2104_small_region,veiligheidsregio,mobility_veiligheidsregio
+Appingedam,3,0,11,48,Groningen,6
+Bedum,5,0,11,48,Groningen,6
+Ten Boer,9,0,11,48,Groningen,6
+Delfzijl,10,0,11,48,Groningen,6
+Groningen,14,0,11,48,Groningen,6
+Grootegast,15,0,11,48,Groningen,6
+Stein,971,1,4,60,Limburg-Zuid,2
+Vaals,981,1,4,7,Limburg-Zuid,2
+Venlo,983,1,10,4,Limburg-Noord,2
+Haren,17,0,11,48,Groningen,6
+Leek,22,0,11,48,Groningen,6
+Loppersum,24,0,11,48,Groningen,6
+Marum,25,0,11,48,Groningen,6
+Almere,34,2,3,27,Flevoland,19
+Voerendaal,986,1,4,7,Limburg-Zuid,2
+Stadskanaal,37,0,11,48,Groningen,6
+Veendam,47,0,11,48,Groningen,6
+Zeewolde,50,3,7,14,Flevoland,19
+Winsum,53,0,11,48,Groningen,6
+Zuidhorn,56,0,11,48,Groningen,6
+Dongeradeel,58,0,11,16,Fryslân,6
+Achtkarspelen,59,0,11,16,Fryslân,6
+Ameland,60,0,11,16,Fryslân,6
+Valkenburg aan de Geul,994,1,4,72,Limburg-Zuid,2
+Arnhem,202,4,8,55,Gelderland-Midden,12
+Harlingen,72,0,11,16,Fryslân,6
+Heerenveen,74,0,11,16,Fryslân,6
+Kollumerland en Nieuwkruisland,79,0,11,16,Fryslân,6
+Leeuwarden,80,0,11,16,Fryslân,6
+Ooststellingwerf,85,0,11,16,Fryslân,6
+Opsterland,86,0,11,16,Fryslân,6
+Schiermonnikoog,88,0,11,16,Fryslân,6
+Smallingerland,90,0,11,16,Fryslân,6
+Terschelling,93,0,11,16,Fryslân,6
+Vlieland,96,2,9,40,Fryslân,6
+Weststellingwerf,98,0,11,16,Fryslân,6
+Assen,106,0,11,48,Drenthe,6
+Coevorden,109,0,11,8,Drenthe,6
+Emmen,114,0,11,8,Drenthe,6
+Hoogeveen,118,3,11,78,Drenthe,6
+Meppel,119,3,6,78,Drenthe,6
+Almelo,141,5,6,44,Twente,8
+Borne,147,5,6,32,Twente,8
+Dalfsen,148,3,6,31,IJsselland,12
+Deventer,150,3,6,13,IJsselland,12
+Cromstrijen,611,6,5,53,Zuid-Holland-Zuid,21
+Enschede,153,5,6,32,Twente,8
+Barneveld,203,7,7,25,Gelderland-Midden,12
+Haaksbergen,158,5,6,32,Twente,8
+Hardenberg,160,3,6,31,IJsselland,12
+Hellendoorn,163,5,6,44,Twente,8
+Heemstede,397,2,3,24,Kennemerland,11
+Diemen,384,2,3,73,Amsterdam-Amstelland,11
+Hengelo,164,5,6,32,Twente,8
+Harderwijk,243,3,7,14,Noord- en Oost-Gelderland,12
+Kampen,166,3,6,59,IJsselland,12
+Losser,168,5,6,32,Twente,8
+Noordoostpolder,171,3,6,10,Flevoland,19
+Haarlemmerliede en Spaarnwoude,393,2,3,24,Kennemerland,11
+Oldenzaal,173,5,6,32,Twente,8
+Ommen,175,3,6,31,IJsselland,12
+Raalte,177,3,6,13,IJsselland,12
+Staphorst,180,3,6,78,IJsselland,12
+Tubbergen,183,5,6,44,Twente,8
+Urk,184,3,6,10,Flevoland,19
+Weert,988,8,10,51,Limburg-Noord,2
+Wierden,189,5,6,44,Twente,8
+Zwolle,193,3,6,42,IJsselland,12
+Aalten,197,4,8,45,Noord- en Oost-Gelderland,12
+Apeldoorn,200,3,6,17,Noord- en Oost-Gelderland,12
+Beuningen,209,4,8,52,Gelderland-Zuid,24
+Brummen,213,3,6,39,Noord- en Oost-Gelderland,12
+Buren,214,7,7,54,Gelderland-Zuid,24
+Culemborg,216,7,7,54,Gelderland-Zuid,24
+Doesburg,221,4,8,55,Gelderland-Midden,12
+Doetinchem,222,4,8,45,Noord- en Oost-Gelderland,12
+Druten,225,4,8,49,Gelderland-Zuid,24
+Lelystad,995,3,3,30,Flevoland,19
+Horst aan de Maas,1507,1,10,4,Limburg-Noord,2
+Oude IJsselstreek,1509,4,8,45,Noord- en Oost-Gelderland,12
+Utrechtse Heuvelrug,1581,7,7,41,Utrecht,14
+Oost Gelre,1586,4,8,45,Noord- en Oost-Gelderland,12
+Koggenland,1598,9,3,20,Noord-Holland-Noord,11
+Hattem,244,3,6,42,Noord- en Oost-Gelderland,12
+Duiven,226,4,8,55,Gelderland-Midden,12
+Ede,228,7,7,25,Gelderland-Midden,12
+Elburg,230,3,6,75,Noord- en Oost-Gelderland,12
+Rozendaal,277,4,8,55,Gelderland-Midden,12
+Epe,232,3,6,17,Noord- en Oost-Gelderland,12
+Ermelo,233,3,7,14,Noord- en Oost-Gelderland,12
+Geldermalsen,236,7,7,54,Gelderland-Zuid,24
+Westervoort,293,4,8,55,Gelderland-Midden,12
+Heerde,246,3,6,71,Noord- en Oost-Gelderland,12
+Heumen,252,4,8,52,Gelderland-Zuid,24
+Lochem,262,3,6,39,Noord- en Oost-Gelderland,12
+Zutphen,301,3,6,39,Noord- en Oost-Gelderland,12
+Maasdriel,263,8,0,65,Gelderland-Zuid,24
+Nijkerk,267,7,7,79,Gelderland-Midden,12
+Nijmegen,268,4,8,52,Gelderland-Zuid,24
+Oldebroek,269,3,6,75,Noord- en Oost-Gelderland,12
+Putten,273,3,7,14,Noord- en Oost-Gelderland,12
+Renkum,274,4,8,55,Gelderland-Midden,12
+Rheden,275,4,8,55,Gelderland-Midden,12
+Bunschoten,313,7,7,79,Utrecht,14
+Scherpenzeel,279,7,7,25,Gelderland-Midden,12
+Tiel,281,7,7,54,Gelderland-Zuid,24
+Voorst,285,3,6,13,Noord- en Oost-Gelderland,12
+Wageningen,289,7,7,25,Gelderland-Midden,12
+Winterswijk,294,4,8,45,Noord- en Oost-Gelderland,12
+Wijchen,296,4,8,52,Gelderland-Zuid,24
+Zaltbommel,297,8,0,65,Gelderland-Zuid,24
+Zevenaar,299,4,8,55,Gelderland-Midden,12
+Nunspeet,302,3,6,75,Noord- en Oost-Gelderland,12
+Dronten,303,3,6,30,Flevoland,19
+Neerijnen,304,7,7,54,Gelderland-Zuid,24
+Amersfoort,307,7,7,79,Utrecht,14
+Baarn,308,7,7,79,Utrecht,14
+De Bilt,310,7,7,41,Utrecht,14
+Bunnik,312,7,7,41,Utrecht,14
+Eemnes,317,2,3,66,Utrecht,14
+Houten,321,7,7,22,Utrecht,14
+Leusden,327,7,7,79,Utrecht,14
+Lopik,331,7,7,22,Utrecht,14
+Montfoort,335,7,7,3,Utrecht,14
+Renswoude,339,7,7,25,Utrecht,14
+Steenwijkerland,1708,3,6,78,IJsselland,12
+Rhenen,340,7,7,25,Utrecht,14
+Soest,342,7,7,79,Utrecht,14
+Utrecht,344,7,7,15,Utrecht,14
+Veenendaal,345,7,7,25,Utrecht,14
+Woudenberg,351,7,7,25,Utrecht,14
+Cranendonck,1706,8,10,51,Brabant-Zuidoost,16
+Moerdijk,1709,10,2,80,Midden- en West-Brabant,18
+Echt-Susteren,1711,1,4,76,Limburg-Noord,2
+Sluis,1714,10,2,63,Zeeland,18
+Drimmelen,1719,10,2,5,Midden- en West-Brabant,18
+Wijk bij Duurstede,352,7,7,41,Utrecht,14
+IJsselstein,353,7,7,22,Utrecht,14
+Zeist,355,7,7,41,Utrecht,14
+Nieuwegein,356,7,7,22,Utrecht,14
+Aalsmeer,358,2,3,37,Amsterdam-Amstelland,11
+Alkmaar,361,9,3,81,Noord-Holland-Noord,11
+Blaricum,376,2,3,66,Gooi en Vechtstreek,14
+Amstelveen,362,2,3,37,Amsterdam-Amstelland,11
+Amsterdam,363,2,3,73,Amsterdam-Amstelland,11
+Beemster,370,2,3,9,Zaanstreek-Waterland,11
+Bergen (NH.),373,9,3,81,Noord-Holland-Noord,11
+Beverwijk,375,9,3,35,Kennemerland,11
+Bladel,1728,8,10,50,Brabant-Zuidoost,16
+Gulpen-Wittem,1729,1,4,7,Limburg-Zuid,2
+Tynaarlo,1730,0,11,48,Drenthe,6
+Eijsden-Margraten,1903,1,4,72,Limburg-Zuid,2
+Stichtse Vecht,1904,7,7,15,Utrecht,14
+Midden-Drenthe,1731,0,11,48,Drenthe,6
+Overbetuwe,1734,4,8,55,Gelderland-Midden,12
+Hof van Twente,1735,5,6,32,Twente,8
+Neder-Betuwe,1740,7,7,54,Gelderland-Zuid,24
+Geldrop-Mierlo,1771,8,10,23,Brabant-Zuidoost,16
+Olst-Wijhe,1773,3,6,13,IJsselland,12
+Dinkelland,1774,5,6,32,Twente,8
+Bloemendaal,377,2,3,24,Kennemerland,11
+Goeree-Overflakkee,1924,6,5,62,Rotterdam-Rijnmond,21
+Castricum,383,9,3,35,Noord-Holland-Noord,11
+Edam-Volendam,385,2,3,9,Zaanstreek-Waterland,11
+Enkhuizen,388,9,3,20,Noord-Holland-Noord,11
+Haarlem,392,2,3,24,Kennemerland,11
+Haarlemmermeer,394,2,3,24,Kennemerland,11
+Heemskerk,396,9,3,35,Kennemerland,11
+Heerhugowaard,398,9,3,81,Noord-Holland-Noord,11
+Hoorn,405,9,3,20,Noord-Holland-Noord,11
+Heiloo,399,9,3,81,Noord-Holland-Noord,11
+Den Helder,400,9,3,81,Noord-Holland-Noord,11
+Hilversum,402,2,3,66,Gooi en Vechtstreek,14
+Papendrecht,590,6,5,1,Zuid-Holland-Zuid,21
+Huizen,406,2,3,66,Gooi en Vechtstreek,14
+Landsmeer,415,2,3,9,Zaanstreek-Waterland,11
+Langedijk,416,9,3,81,Noord-Holland-Noord,11
+Laren,417,2,3,66,Gooi en Vechtstreek,14
+Purmerend,439,2,3,9,Zaanstreek-Waterland,11
+Medemblik,420,9,3,20,Noord-Holland-Noord,11
+Oostzaan,431,2,3,64,Zaanstreek-Waterland,11
+Opmeer,432,9,3,20,Noord-Holland-Noord,11
+Ouder-Amstel,437,2,3,73,Amsterdam-Amstelland,11
+Schagen,441,9,3,81,Noord-Holland-Noord,11
+Texel,448,9,3,81,Noord-Holland-Noord,11
+Uitgeest,450,9,3,35,Kennemerland,11
+Uithoorn,451,2,3,37,Amsterdam-Amstelland,11
+Velsen,453,2,3,35,Kennemerland,11
+Krimpenerwaard,1931,6,5,36,Hollands-Midden,23
+De Fryske Marren,1940,0,11,16,Fryslân,6
+Midden-Groningen,1952,0,11,48,Groningen,6
+Weesp,457,2,3,66,Gooi en Vechtstreek,14
+Zandvoort,473,2,3,24,Kennemerland,11
+Barendrecht,489,6,5,34,Rotterdam-Rijnmond,21
+Zaanstad,479,2,3,64,Zaanstreek-Waterland,11
+Alblasserdam,482,6,5,1,Zuid-Holland-Zuid,21
+Nissewaard,1930,6,5,12,Rotterdam-Rijnmond,21
+Montferland,1955,4,8,45,Noord- en Oost-Gelderland,12
+Drechterland,498,9,3,20,Noord-Holland-Noord,11
+Alphen aan den Rijn,484,11,1,61,Hollands-Midden,23
+Brielle,501,6,5,12,Rotterdam-Rijnmond,21
+Capelle aan den IJssel,502,6,5,38,Rotterdam-Rijnmond,21
+Delft,503,11,1,2,Haaglanden,23
+Dordrecht,505,6,5,1,Zuid-Holland-Zuid,21
+Gorinchem,512,6,5,26,Zuid-Holland-Zuid,21
+Gouda,513,11,1,36,Hollands-Midden,23
+'s-Gravenhage,518,11,1,6,Haaglanden,23
+Hardinxveld-Giessendam,523,6,5,26,Zuid-Holland-Zuid,21
+Hillegom,534,2,3,24,Hollands-Midden,23
+Hellevoetsluis,530,6,5,12,Rotterdam-Rijnmond,21
+Hendrik-Ido-Ambacht,531,6,5,34,Zuid-Holland-Zuid,21
+Stede Broec,532,9,3,20,Noord-Holland-Noord,11
+Katwijk,537,11,1,43,Hollands-Midden,23
+Krimpen aan den IJssel,542,6,5,38,Rotterdam-Rijnmond,21
+Leerdam,545,7,7,26,Utrecht,14
+Leiden,546,11,1,43,Hollands-Midden,23
+Leiderdorp,547,11,1,43,Hollands-Midden,23
+Lisse,553,11,1,24,Hollands-Midden,23
+Maassluis,556,6,5,47,Rotterdam-Rijnmond,21
+Nieuwkoop,569,11,1,61,Hollands-Midden,23
+Noordwijk,575,11,1,43,Hollands-Midden,23
+Noordwijkerhout,576,11,1,43,Hollands-Midden,23
+Oegstgeest,579,11,1,43,Hollands-Midden,23
+Oud-Beijerland,584,6,5,53,Zuid-Holland-Zuid,21
+Binnenmaas,585,6,5,53,Zuid-Holland-Zuid,21
+Korendijk,588,6,5,53,Zuid-Holland-Zuid,21
+Oudewater,589,7,7,3,Utrecht,14
+Rijswijk,603,11,1,6,Haaglanden,23
+Ridderkerk,597,6,5,34,Rotterdam-Rijnmond,21
+Rotterdam,599,6,5,28,Rotterdam-Rijnmond,21
+Schiedam,606,6,5,70,Rotterdam-Rijnmond,21
+Sliedrecht,610,6,5,1,Zuid-Holland-Zuid,21
+Albrandswaard,613,6,5,34,Rotterdam-Rijnmond,21
+Westvoorne,614,6,5,12,Rotterdam-Rijnmond,21
+Strijen,617,6,5,53,Zuid-Holland-Zuid,21
+Zwijndrecht,642,6,5,34,Zuid-Holland-Zuid,21
+Vianen,620,7,7,22,Utrecht,14
+Vlaardingen,622,6,5,70,Rotterdam-Rijnmond,21
+Voorschoten,626,11,1,43,Hollands-Midden,23
+Waddinxveen,627,11,1,36,Hollands-Midden,23
+Wassenaar,629,11,1,43,Haaglanden,23
+Woerden,632,7,7,3,Utrecht,14
+Zoetermeer,637,11,1,58,Haaglanden,23
+Zoeterwoude,638,11,1,43,Hollands-Midden,23
+Borsele,654,10,2,63,Zeeland,18
+Goes,664,10,2,63,Zeeland,18
+Kapelle,678,10,2,63,Zeeland,18
+West Maas en Waal,668,4,8,49,Gelderland-Zuid,24
+Hulst,677,10,2,63,Zeeland,18
+Reimerswaal,703,10,2,63,Zeeland,18
+Tholen,716,10,2,18,Zeeland,18
+Middelburg,687,10,2,63,Zeeland,18
+Giessenlanden,689,6,5,26,Zuid-Holland-Zuid,21
+Zederik,707,7,7,26,Utrecht,14
+Terneuzen,715,10,2,63,Zeeland,18
+Pekela,765,0,11,48,Groningen,6
+Reusel-De Mierden,1667,8,10,50,Brabant-Zuidoost,16
+Roerdalen,1669,1,10,76,Limburg-Noord,2
+Roosendaal,1674,10,2,80,Midden- en West-Brabant,18
+Veere,717,10,2,63,Zeeland,18
+Vlissingen,718,10,2,63,Zeeland,18
+Maasgouw,1641,1,10,76,Limburg-Noord,2
+Eemsmond,1651,0,11,48,Groningen,6
+Gemert-Bakel,1652,8,10,11,Brabant-Zuidoost,16
+Halderberge,1655,10,2,80,Midden- en West-Brabant,18
+Lingewaal,733,7,7,26,Gelderland-Zuid,24
+De Ronde Venen,736,2,3,37,Utrecht,14
+Tytsjerksteradiel,737,0,11,16,Fryslân,6
+Aalburg,738,8,0,65,Midden- en West-Brabant,18
+Asten,743,8,10,21,Brabant-Zuidoost,16
+Baarle-Nassau,744,10,2,69,Midden- en West-Brabant,18
+Bergen op Zoom,748,10,2,18,Midden- en West-Brabant,18
+Best,753,8,10,23,Brabant-Zuidoost,16
+Boekel,755,8,0,11,Brabant-Noord,24
+Boxmeer,756,4,8,0,Brabant-Noord,24
+Boxtel,757,8,0,29,Brabant-Noord,24
+Breda,758,10,2,5,Midden- en West-Brabant,18
+Deurne,762,8,10,21,Brabant-Zuidoost,16
+Dongen,766,10,2,69,Midden- en West-Brabant,18
+Eersel,770,8,10,50,Brabant-Zuidoost,16
+Eindhoven,772,8,10,23,Brabant-Zuidoost,16
+Etten-Leur,777,10,2,80,Midden- en West-Brabant,18
+Schouwen-Duiveland,1676,10,2,63,Zeeland,18
+Aa en Hunze,1680,0,11,48,Drenthe,6
+Geertruidenberg,779,10,2,5,Midden- en West-Brabant,18
+Gilze en Rijen,784,10,2,69,Midden- en West-Brabant,18
+Goirle,785,10,2,74,Midden- en West-Brabant,18
+Grave,786,4,8,67,Brabant-Noord,24
+Haaren,788,8,0,29,Brabant-Noord,24
+Helmond,794,8,10,21,Brabant-Zuidoost,16
+'s-Hertogenbosch,796,8,0,29,Brabant-Noord,24
+Heusden,797,8,0,65,Brabant-Noord,24
+Hilvarenbeek,798,10,2,74,Midden- en West-Brabant,18
+Loon op Zand,809,10,2,65,Midden- en West-Brabant,18
+Sint-Michielsgestel,845,8,0,29,Brabant-Noord,24
+Mill en Sint Hubert,815,4,8,0,Brabant-Noord,24
+"Nuenen, Gerwen en Nederwetten",820,8,10,23,Brabant-Zuidoost,16
+Oirschot,823,8,10,50,Brabant-Zuidoost,16
+Oisterwijk,824,10,2,74,Midden- en West-Brabant,18
+Oosterhout,826,10,2,5,Midden- en West-Brabant,18
+Oss,828,8,0,56,Brabant-Noord,24
+Rucphen,840,10,2,80,Midden- en West-Brabant,18
+Someren,847,8,10,21,Brabant-Zuidoost,16
+Son en Breugel,848,8,10,23,Brabant-Zuidoost,16
+Nederweert,946,8,10,51,Limburg-Noord,2
+Borger-Odoorn,1681,0,11,48,Drenthe,6
+Steenbergen,851,10,2,18,Midden- en West-Brabant,18
+Waterland,852,2,3,9,Zaanstreek-Waterland,11
+Tilburg,855,10,2,74,Midden- en West-Brabant,18
+Uden,856,8,0,77,Brabant-Noord,24
+Valkenswaard,858,8,10,19,Brabant-Zuidoost,16
+Cuijk,1684,4,8,0,Brabant-Noord,24
+Veldhoven,861,8,10,23,Brabant-Zuidoost,16
+Vught,865,8,0,29,Brabant-Noord,24
+Landerd,1685,8,0,77,Brabant-Noord,24
+De Wolden,1690,3,11,78,Drenthe,6
+Lansingerland,1621,6,1,68,Rotterdam-Rijnmond,21
+Leudal,1640,1,10,76,Limburg-Noord,2
+Noord-Beveland,1695,10,2,63,Zeeland,18
+Wijdemeren,1696,2,3,66,Gooi en Vechtstreek,14
+Noordenveld,1699,0,11,48,Drenthe,6
+Twenterand,1700,5,6,44,Twente,8
+Westerveld,1701,3,11,78,Drenthe,6
+Waalre,866,8,10,23,Brabant-Zuidoost,16
+Sint Anthonis,1702,4,8,0,Brabant-Noord,24
+Waalwijk,867,10,2,65,Midden- en West-Brabant,18
+Werkendam,870,6,5,26,Midden- en West-Brabant,18
+Woensdrecht,873,10,2,18,Midden- en West-Brabant,18
+Woudrichem,874,6,5,26,Midden- en West-Brabant,18
+Zundert,879,10,2,80,Midden- en West-Brabant,18
+Onderbanken,881,1,4,7,Limburg-Zuid,2
+Wormerland,880,2,3,64,Zaanstreek-Waterland,11
+Brunssum,899,1,4,7,Limburg-Zuid,2
+Landgraaf,882,1,4,7,Limburg-Zuid,2
+Beek,888,1,4,60,Limburg-Zuid,2
+Mook en Middelaar,944,4,8,0,Limburg-Noord,2
+Beesel,889,1,10,76,Limburg-Noord,2
+Bergen (L.),893,4,8,0,Limburg-Noord,2
+Gennep,907,4,8,0,Limburg-Noord,2
+Heerlen,917,1,4,7,Limburg-Zuid,2
+Kerkrade,928,1,4,7,Limburg-Zuid,2
+Maastricht,935,1,4,72,Limburg-Zuid,2
+Meerssen,938,1,4,72,Limburg-Zuid,2
+Nuth,951,1,4,7,Limburg-Zuid,2
+Roermond,957,1,10,76,Limburg-Noord,2
+Schinnen,962,1,4,7,Limburg-Zuid,2
+Simpelveld,965,1,4,7,Limburg-Zuid,2
+Venray,984,1,10,4,Limburg-Noord,2
+Teylingen,1525,11,1,43,Hollands-Midden,23
+Heeze-Leende,1658,8,10,19,Brabant-Zuidoost,16
+Laarbeek,1659,8,10,11,Brabant-Zuidoost,16
+De Marne,1663,0,11,48,Groningen,6
+Lingewaard,1705,4,8,55,Gelderland-Midden,12
+Bernheze,1721,8,0,57,Brabant-Noord,24
+Ferwerderadiel,1722,0,11,16,Fryslân,6
+Alphen-Chaam,1723,10,2,69,Midden- en West-Brabant,18
+Bergeijk,1724,8,10,50,Brabant-Zuidoost,16
+Rijssen-Holten,1742,5,6,44,Twente,8
+Westland,1783,11,1,47,Haaglanden,23
+Midden-Delfland,1842,11,1,2,Haaglanden,23
+Berkelland,1859,5,6,45,Noord- en Oost-Gelderland,12
+Bronckhorst,1876,4,8,45,Noord- en Oost-Gelderland,12
+Sittard-Geleen,1883,1,4,60,Limburg-Zuid,2
+Kaag en Braassem,1884,11,1,61,Hollands-Midden,23
+Dantumadiel,1891,0,11,16,Fryslân,6
+Zuidplas,1892,6,5,36,Hollands-Midden,23
+Peel en Maas,1894,1,10,33,Limburg-Noord,2
+Oldambt,1895,0,11,48,Groningen,6
+Zwartewaterland,1896,3,6,59,IJsselland,12
+Súdwest-Fryslân,1900,0,11,16,Fryslân,6
+Bodegraven-Reeuwijk,1901,11,1,36,Hollands-Midden,23
+Hollands Kroon,1911,9,3,81,Noord-Holland-Noord,11
+Leidschendam-Voorburg,1916,11,1,6,Haaglanden,23
+Pijnacker-Nootdorp,1926,11,1,2,Haaglanden,23
+Molenwaard,1927,6,5,1,Zuid-Holland-Zuid,21
+Gooise Meren,1942,2,3,66,Gooi en Vechtstreek,14
+Berg en Dal,1945,4,8,52,Gelderland-Zuid,24
+Meierijstad,1948,8,0,46,Brabant-Noord,24
+Waadhoeke,1949,0,11,16,Fryslân,6
+Westerwolde,1950,0,11,48,Groningen,6

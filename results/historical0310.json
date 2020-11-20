@@ -1,0 +1,142 @@
+{
+    "mobility_performances": {
+        "0.15": {
+            "Mobility": 96.1175518512726,
+            "Infections": 967.0864958120907
+        },
+        "0.25": {
+            "Mobility": 88.61515527840213,
+            "Infections": 807.4819271403372
+        },
+        "0.5": {
+            "Mobility": 80.71612560180388,
+            "Infections": 700.8193052467984
+        },
+        "1.0": {
+            "Mobility": 74.9949152075321,
+            "Infections": 656.2636640525728
+        },
+        "2.0": {
+            "Mobility": 67.10041195314717,
+            "Infections": 571.4399597579423
+        },
+        "2.5": {
+            "Mobility": 62.5853897008302,
+            "Infections": 515.0725083601601
+        },
+        "3.0": {
+            "Mobility": 59.06400556231107,
+            "Infections": 490.27918073863094
+        },
+        "4.0": {
+            "Mobility": 53.83719732193896,
+            "Infections": 462.8644632940303
+        },
+        "8.0": {
+            "Mobility": 42.71368853238304,
+            "Infections": 390.5732249994409
+        },
+        "16.0": {
+            "Mobility": 28.345413142993387,
+            "Infections": 313.065644377653
+        },
+        "32.0": {
+            "Mobility": 15.637390088438929,
+            "Infections": 224.37805468002446
+        }
+    },
+    "adaptive_mobility_performances": {
+        "350": {
+            "Mobility": 94.44739984631691,
+            "Infections": 835.4128750797508
+        },
+        "373": {
+            "Mobility": 94.44739984631691,
+            "Infections": 835.4128750797508
+        },
+        "519": {
+            "Mobility": 92.86993332252521,
+            "Infections": 820.4441995228511
+        },
+        "1488": {
+            "Mobility": 83.3365973561979,
+            "Infections": 657.662772045048
+        },
+        "2519": {
+            "Mobility": 76.11166395953018,
+            "Infections": 562.0300689408656
+        },
+        "4263": {
+            "Mobility": 71.14953797188332,
+            "Infections": 510.4690189509906
+        },
+        "7216": {
+            "Mobility": 64.52219127467525,
+            "Infections": 449.491326420223
+        },
+        "12213": {
+            "Mobility": 57.9504900112712,
+            "Infections": 353.6168560613736
+        },
+        "822413": {
+            "Mobility": 32.14419778861838,
+            "Infections": 217.24558358139785
+        }
+    },
+    "optimized_performances": {
+        "Adaptive mobility regions res=12213 optimized for 2251": {
+            "Mobility": 72.88382355544634,
+            "Infections": 423.03227491972285
+        },
+        "Adaptive mobility regions res=12213 optimized for 4502": {
+            "Mobility": 63.707042797959694,
+            "Infections": 375.1648076937794
+        },
+        "Mobility regions res=1.0 optimized for 2251": {
+            "Mobility": 83.81372304222809,
+            "Infections": 709.3989589816673
+        },
+        "Mobility regions res=1.0 optimized for 4502": {
+            "Mobility": 75.49823102354468,
+            "Infections": 658.255420786356
+        },
+        "Mobility regions res=16.0 optimized for 2251": {
+            "Mobility": 72.82629430586756,
+            "Infections": 483.98100736287284
+        },
+        "Mobility regions res=16.0 optimized for 4502": {
+            "Mobility": 50.63968587640795,
+            "Infections": 360.85787119744293
+        },
+        "Security regions optimized for 2251": {
+            "Mobility": 78.14097122989345,
+            "Infections": 597.9573886723963
+        },
+        "Security regions optimized for 4502": {
+            "Mobility": 62.02530875450496,
+            "Infections": 502.08066758490315
+        }
+    },
+    "benchmark_performances": {
+        "Min restrictions": {
+            "Mobility": 100.00000000000038,
+            "Infections": 997.3891574166445
+        },
+        "Max restrictions": {
+            "Mobility": 0.0,
+            "Infections": 159.89453248290303
+        },
+        "Provinces": {
+            "Mobility": 68.96859243882543,
+            "Infections": 637.0196958079125
+        },
+        "Security regions": {
+            "Mobility": 50.39467590202235,
+            "Infections": 467.6531025802661
+        },
+        "Isolate Noord-Brabant": {
+            "Mobility": 92.80146146643287,
+            "Infections": 818.0954545982833
+        }
+    }
+}

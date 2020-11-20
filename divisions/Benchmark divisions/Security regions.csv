@@ -1,0 +1,381 @@
+item,cluster
+Appingedam,Groningen
+Bedum,Groningen
+Ten Boer,Groningen
+Delfzijl,Groningen
+Groningen,Groningen
+Grootegast,Groningen
+Stein,Limburg-Zuid
+Vaals,Limburg-Zuid
+Venlo,Limburg-Noord
+Haren,Groningen
+Leek,Groningen
+Loppersum,Groningen
+Marum,Groningen
+Almere,Flevoland
+Voerendaal,Limburg-Zuid
+Stadskanaal,Groningen
+Veendam,Groningen
+Zeewolde,Flevoland
+Winsum,Groningen
+Zuidhorn,Groningen
+Dongeradeel,Fryslân
+Achtkarspelen,Fryslân
+Ameland,Fryslân
+Valkenburg aan de Geul,Limburg-Zuid
+Arnhem,Gelderland-Midden
+Harlingen,Fryslân
+Heerenveen,Fryslân
+Kollumerland en Nieuwkruisland,Fryslân
+Leeuwarden,Fryslân
+Ooststellingwerf,Fryslân
+Opsterland,Fryslân
+Schiermonnikoog,Fryslân
+Smallingerland,Fryslân
+Terschelling,Fryslân
+Vlieland,Fryslân
+Weststellingwerf,Fryslân
+Assen,Drenthe
+Coevorden,Drenthe
+Emmen,Drenthe
+Hoogeveen,Drenthe
+Meppel,Drenthe
+Almelo,Twente
+Borne,Twente
+Dalfsen,IJsselland
+Deventer,IJsselland
+Cromstrijen,Zuid-Holland-Zuid
+Enschede,Twente
+Barneveld,Gelderland-Midden
+Haaksbergen,Twente
+Hardenberg,IJsselland
+Hellendoorn,Twente
+Heemstede,Kennemerland
+Diemen,Amsterdam-Amstelland
+Hengelo,Twente
+Harderwijk,Noord- en Oost-Gelderland
+Kampen,IJsselland
+Losser,Twente
+Noordoostpolder,Flevoland
+Haarlemmerliede en Spaarnwoude,Kennemerland
+Oldenzaal,Twente
+Ommen,IJsselland
+Raalte,IJsselland
+Staphorst,IJsselland
+Tubbergen,Twente
+Urk,Flevoland
+Weert,Limburg-Noord
+Wierden,Twente
+Zwolle,IJsselland
+Aalten,Noord- en Oost-Gelderland
+Apeldoorn,Noord- en Oost-Gelderland
+Beuningen,Gelderland-Zuid
+Brummen,Noord- en Oost-Gelderland
+Buren,Gelderland-Zuid
+Culemborg,Gelderland-Zuid
+Doesburg,Gelderland-Midden
+Doetinchem,Noord- en Oost-Gelderland
+Druten,Gelderland-Zuid
+Lelystad,Flevoland
+Horst aan de Maas,Limburg-Noord
+Oude IJsselstreek,Noord- en Oost-Gelderland
+Utrechtse Heuvelrug,Utrecht
+Oost Gelre,Noord- en Oost-Gelderland
+Koggenland,Noord-Holland-Noord
+Hattem,Noord- en Oost-Gelderland
+Duiven,Gelderland-Midden
+Ede,Gelderland-Midden
+Elburg,Noord- en Oost-Gelderland
+Rozendaal,Gelderland-Midden
+Epe,Noord- en Oost-Gelderland
+Ermelo,Noord- en Oost-Gelderland
+Geldermalsen,Gelderland-Zuid
+Westervoort,Gelderland-Midden
+Heerde,Noord- en Oost-Gelderland
+Heumen,Gelderland-Zuid
+Lochem,Noord- en Oost-Gelderland
+Zutphen,Noord- en Oost-Gelderland
+Maasdriel,Gelderland-Zuid
+Nijkerk,Gelderland-Midden
+Nijmegen,Gelderland-Zuid
+Oldebroek,Noord- en Oost-Gelderland
+Putten,Noord- en Oost-Gelderland
+Renkum,Gelderland-Midden
+Rheden,Gelderland-Midden
+Bunschoten,Utrecht
+Scherpenzeel,Gelderland-Midden
+Tiel,Gelderland-Zuid
+Voorst,Noord- en Oost-Gelderland
+Wageningen,Gelderland-Midden
+Winterswijk,Noord- en Oost-Gelderland
+Wijchen,Gelderland-Zuid
+Zaltbommel,Gelderland-Zuid
+Zevenaar,Gelderland-Midden
+Nunspeet,Noord- en Oost-Gelderland
+Dronten,Flevoland
+Neerijnen,Gelderland-Zuid
+Amersfoort,Utrecht
+Baarn,Utrecht
+De Bilt,Utrecht
+Bunnik,Utrecht
+Eemnes,Utrecht
+Houten,Utrecht
+Leusden,Utrecht
+Lopik,Utrecht
+Montfoort,Utrecht
+Renswoude,Utrecht
+Steenwijkerland,IJsselland
+Rhenen,Utrecht
+Soest,Utrecht
+Utrecht,Utrecht
+Veenendaal,Utrecht
+Woudenberg,Utrecht
+Cranendonck,Brabant-Zuidoost
+Moerdijk,Midden- en West-Brabant
+Echt-Susteren,Limburg-Noord
+Sluis,Zeeland
+Drimmelen,Midden- en West-Brabant
+Wijk bij Duurstede,Utrecht
+IJsselstein,Utrecht
+Zeist,Utrecht
+Nieuwegein,Utrecht
+Aalsmeer,Amsterdam-Amstelland
+Alkmaar,Noord-Holland-Noord
+Blaricum,Gooi en Vechtstreek
+Amstelveen,Amsterdam-Amstelland
+Amsterdam,Amsterdam-Amstelland
+Beemster,Zaanstreek-Waterland
+Bergen (NH.),Noord-Holland-Noord
+Beverwijk,Kennemerland
+Bladel,Brabant-Zuidoost
+Gulpen-Wittem,Limburg-Zuid
+Tynaarlo,Drenthe
+Eijsden-Margraten,Limburg-Zuid
+Stichtse Vecht,Utrecht
+Midden-Drenthe,Drenthe
+Overbetuwe,Gelderland-Midden
+Hof van Twente,Twente
+Neder-Betuwe,Gelderland-Zuid
+Geldrop-Mierlo,Brabant-Zuidoost
+Olst-Wijhe,IJsselland
+Dinkelland,Twente
+Bloemendaal,Kennemerland
+Goeree-Overflakkee,Rotterdam-Rijnmond
+Castricum,Noord-Holland-Noord
+Edam-Volendam,Zaanstreek-Waterland
+Enkhuizen,Noord-Holland-Noord
+Haarlem,Kennemerland
+Haarlemmermeer,Kennemerland
+Heemskerk,Kennemerland
+Heerhugowaard,Noord-Holland-Noord
+Hoorn,Noord-Holland-Noord
+Heiloo,Noord-Holland-Noord
+Den Helder,Noord-Holland-Noord
+Hilversum,Gooi en Vechtstreek
+Papendrecht,Zuid-Holland-Zuid
+Huizen,Gooi en Vechtstreek
+Landsmeer,Zaanstreek-Waterland
+Langedijk,Noord-Holland-Noord
+Laren,Gooi en Vechtstreek
+Purmerend,Zaanstreek-Waterland
+Medemblik,Noord-Holland-Noord
+Oostzaan,Zaanstreek-Waterland
+Opmeer,Noord-Holland-Noord
+Ouder-Amstel,Amsterdam-Amstelland
+Schagen,Noord-Holland-Noord
+Texel,Noord-Holland-Noord
+Uitgeest,Kennemerland
+Uithoorn,Amsterdam-Amstelland
+Velsen,Kennemerland
+Krimpenerwaard,Hollands-Midden
+De Fryske Marren,Fryslân
+Midden-Groningen,Groningen
+Weesp,Gooi en Vechtstreek
+Zandvoort,Kennemerland
+Barendrecht,Rotterdam-Rijnmond
+Zaanstad,Zaanstreek-Waterland
+Alblasserdam,Zuid-Holland-Zuid
+Nissewaard,Rotterdam-Rijnmond
+Montferland,Noord- en Oost-Gelderland
+Drechterland,Noord-Holland-Noord
+Alphen aan den Rijn,Hollands-Midden
+Brielle,Rotterdam-Rijnmond
+Capelle aan den IJssel,Rotterdam-Rijnmond
+Delft,Haaglanden
+Dordrecht,Zuid-Holland-Zuid
+Gorinchem,Zuid-Holland-Zuid
+Gouda,Hollands-Midden
+'s-Gravenhage,Haaglanden
+Hardinxveld-Giessendam,Zuid-Holland-Zuid
+Hillegom,Hollands-Midden
+Hellevoetsluis,Rotterdam-Rijnmond
+Hendrik-Ido-Ambacht,Zuid-Holland-Zuid
+Stede Broec,Noord-Holland-Noord
+Katwijk,Hollands-Midden
+Krimpen aan den IJssel,Rotterdam-Rijnmond
+Leerdam,Utrecht
+Leiden,Hollands-Midden
+Leiderdorp,Hollands-Midden
+Lisse,Hollands-Midden
+Maassluis,Rotterdam-Rijnmond
+Nieuwkoop,Hollands-Midden
+Noordwijk,Hollands-Midden
+Noordwijkerhout,Hollands-Midden
+Oegstgeest,Hollands-Midden
+Oud-Beijerland,Zuid-Holland-Zuid
+Binnenmaas,Zuid-Holland-Zuid
+Korendijk,Zuid-Holland-Zuid
+Oudewater,Utrecht
+Rijswijk,Haaglanden
+Ridderkerk,Rotterdam-Rijnmond
+Rotterdam,Rotterdam-Rijnmond
+Schiedam,Rotterdam-Rijnmond
+Sliedrecht,Zuid-Holland-Zuid
+Albrandswaard,Rotterdam-Rijnmond
+Westvoorne,Rotterdam-Rijnmond
+Strijen,Zuid-Holland-Zuid
+Zwijndrecht,Zuid-Holland-Zuid
+Vianen,Utrecht
+Vlaardingen,Rotterdam-Rijnmond
+Voorschoten,Hollands-Midden
+Waddinxveen,Hollands-Midden
+Wassenaar,Haaglanden
+Woerden,Utrecht
+Zoetermeer,Haaglanden
+Zoeterwoude,Hollands-Midden
+Borsele,Zeeland
+Goes,Zeeland
+Kapelle,Zeeland
+West Maas en Waal,Gelderland-Zuid
+Hulst,Zeeland
+Reimerswaal,Zeeland
+Tholen,Zeeland
+Middelburg,Zeeland
+Giessenlanden,Zuid-Holland-Zuid
+Zederik,Utrecht
+Terneuzen,Zeeland
+Pekela,Groningen
+Reusel-De Mierden,Brabant-Zuidoost
+Roerdalen,Limburg-Noord
+Roosendaal,Midden- en West-Brabant
+Veere,Zeeland
+Vlissingen,Zeeland
+Maasgouw,Limburg-Noord
+Eemsmond,Groningen
+Gemert-Bakel,Brabant-Zuidoost
+Halderberge,Midden- en West-Brabant
+Lingewaal,Gelderland-Zuid
+De Ronde Venen,Utrecht
+Tytsjerksteradiel,Fryslân
+Aalburg,Midden- en West-Brabant
+Asten,Brabant-Zuidoost
+Baarle-Nassau,Midden- en West-Brabant
+Bergen op Zoom,Midden- en West-Brabant
+Best,Brabant-Zuidoost
+Boekel,Brabant-Noord
+Boxmeer,Brabant-Noord
+Boxtel,Brabant-Noord
+Breda,Midden- en West-Brabant
+Deurne,Brabant-Zuidoost
+Dongen,Midden- en West-Brabant
+Eersel,Brabant-Zuidoost
+Eindhoven,Brabant-Zuidoost
+Etten-Leur,Midden- en West-Brabant
+Schouwen-Duiveland,Zeeland
+Aa en Hunze,Drenthe
+Geertruidenberg,Midden- en West-Brabant
+Gilze en Rijen,Midden- en West-Brabant
+Goirle,Midden- en West-Brabant
+Grave,Brabant-Noord
+Haaren,Brabant-Noord
+Helmond,Brabant-Zuidoost
+'s-Hertogenbosch,Brabant-Noord
+Heusden,Brabant-Noord
+Hilvarenbeek,Midden- en West-Brabant
+Loon op Zand,Midden- en West-Brabant
+Sint-Michielsgestel,Brabant-Noord
+Mill en Sint Hubert,Brabant-Noord
+"Nuenen, Gerwen en Nederwetten",Brabant-Zuidoost
+Oirschot,Brabant-Zuidoost
+Oisterwijk,Midden- en West-Brabant
+Oosterhout,Midden- en West-Brabant
+Oss,Brabant-Noord
+Rucphen,Midden- en West-Brabant
+Someren,Brabant-Zuidoost
+Son en Breugel,Brabant-Zuidoost
+Nederweert,Limburg-Noord
+Borger-Odoorn,Drenthe
+Steenbergen,Midden- en West-Brabant
+Waterland,Zaanstreek-Waterland
+Tilburg,Midden- en West-Brabant
+Uden,Brabant-Noord
+Valkenswaard,Brabant-Zuidoost
+Cuijk,Brabant-Noord
+Veldhoven,Brabant-Zuidoost
+Vught,Brabant-Noord
+Landerd,Brabant-Noord
+De Wolden,Drenthe
+Lansingerland,Rotterdam-Rijnmond
+Leudal,Limburg-Noord
+Noord-Beveland,Zeeland
+Wijdemeren,Gooi en Vechtstreek
+Noordenveld,Drenthe
+Twenterand,Twente
+Westerveld,Drenthe
+Waalre,Brabant-Zuidoost
+Sint Anthonis,Brabant-Noord
+Waalwijk,Midden- en West-Brabant
+Werkendam,Midden- en West-Brabant
+Woensdrecht,Midden- en West-Brabant
+Woudrichem,Midden- en West-Brabant
+Zundert,Midden- en West-Brabant
+Onderbanken,Limburg-Zuid
+Wormerland,Zaanstreek-Waterland
+Brunssum,Limburg-Zuid
+Landgraaf,Limburg-Zuid
+Beek,Limburg-Zuid
+Mook en Middelaar,Limburg-Noord
+Beesel,Limburg-Noord
+Bergen (L.),Limburg-Noord
+Gennep,Limburg-Noord
+Heerlen,Limburg-Zuid
+Kerkrade,Limburg-Zuid
+Maastricht,Limburg-Zuid
+Meerssen,Limburg-Zuid
+Nuth,Limburg-Zuid
+Roermond,Limburg-Noord
+Schinnen,Limburg-Zuid
+Simpelveld,Limburg-Zuid
+Venray,Limburg-Noord
+Teylingen,Hollands-Midden
+Heeze-Leende,Brabant-Zuidoost
+Laarbeek,Brabant-Zuidoost
+De Marne,Groningen
+Lingewaard,Gelderland-Midden
+Bernheze,Brabant-Noord
+Ferwerderadiel,Fryslân
+Alphen-Chaam,Midden- en West-Brabant
+Bergeijk,Brabant-Zuidoost
+Rijssen-Holten,Twente
+Westland,Haaglanden
+Midden-Delfland,Haaglanden
+Berkelland,Noord- en Oost-Gelderland
+Bronckhorst,Noord- en Oost-Gelderland
+Sittard-Geleen,Limburg-Zuid
+Kaag en Braassem,Hollands-Midden
+Dantumadiel,Fryslân
+Zuidplas,Hollands-Midden
+Peel en Maas,Limburg-Noord
+Oldambt,Groningen
+Zwartewaterland,IJsselland
+Súdwest-Fryslân,Fryslân
+Bodegraven-Reeuwijk,Hollands-Midden
+Hollands Kroon,Noord-Holland-Noord
+Leidschendam-Voorburg,Haaglanden
+Pijnacker-Nootdorp,Haaglanden
+Molenwaard,Zuid-Holland-Zuid
+Gooise Meren,Gooi en Vechtstreek
+Berg en Dal,Gelderland-Zuid
+Meierijstad,Brabant-Noord
+Waadhoeke,Fryslân
+Westerwolde,Groningen

@@ -1,0 +1,381 @@
+item,cluster
+Appingedam,0
+Bedum,0
+Ten Boer,0
+Delfzijl,0
+Groningen,1
+Grootegast,2
+Stein,3
+Vaals,4
+Venlo,5
+Haren,6
+Leek,2
+Loppersum,0
+Marum,2
+Almere,7
+Voerendaal,8
+Stadskanaal,9
+Veendam,10
+Zeewolde,11
+Winsum,0
+Zuidhorn,2
+Dongeradeel,12
+Achtkarspelen,12
+Ameland,13
+Valkenburg aan de Geul,14
+Arnhem,15
+Harlingen,16
+Heerenveen,17
+Kollumerland en Nieuwkruisland,12
+Leeuwarden,16
+Ooststellingwerf,18
+Opsterland,17
+Schiermonnikoog,19
+Smallingerland,17
+Terschelling,16
+Vlieland,20
+Weststellingwerf,21
+Assen,22
+Coevorden,23
+Emmen,23
+Hoogeveen,24
+Meppel,25
+Almelo,26
+Borne,27
+Dalfsen,28
+Deventer,29
+Cromstrijen,30
+Enschede,27
+Barneveld,31
+Haaksbergen,32
+Hardenberg,28
+Hellendoorn,26
+Heemstede,33
+Diemen,34
+Hengelo,27
+Harderwijk,11
+Kampen,35
+Losser,27
+Noordoostpolder,36
+Haarlemmerliede en Spaarnwoude,37
+Oldenzaal,27
+Ommen,28
+Raalte,38
+Staphorst,25
+Tubbergen,26
+Urk,36
+Weert,39
+Wierden,26
+Zwolle,40
+Aalten,41
+Apeldoorn,42
+Beuningen,43
+Brummen,44
+Buren,45
+Culemborg,45
+Doesburg,46
+Doetinchem,47
+Druten,48
+Lelystad,49
+Horst aan de Maas,5
+Oude IJsselstreek,47
+Utrechtse Heuvelrug,50
+Oost Gelre,41
+Koggenland,51
+Hattem,40
+Duiven,52
+Ede,53
+Elburg,54
+Rozendaal,46
+Epe,55
+Ermelo,11
+Geldermalsen,45
+Westervoort,52
+Heerde,55
+Heumen,56
+Lochem,44
+Zutphen,44
+Maasdriel,57
+Nijkerk,58
+Nijmegen,43
+Oldebroek,54
+Putten,11
+Renkum,59
+Rheden,46
+Bunschoten,58
+Scherpenzeel,60
+Tiel,45
+Voorst,29
+Wageningen,59
+Winterswijk,41
+Wijchen,56
+Zaltbommel,57
+Zevenaar,52
+Nunspeet,54
+Dronten,49
+Neerijnen,45
+Amersfoort,61
+Baarn,62
+De Bilt,63
+Bunnik,64
+Eemnes,65
+Houten,64
+Leusden,61
+Lopik,66
+Montfoort,67
+Renswoude,60
+Steenwijkerland,21
+Rhenen,68
+Soest,62
+Utrecht,69
+Veenendaal,68
+Woudenberg,60
+Cranendonck,39
+Moerdijk,70
+Echt-Susteren,71
+Sluis,72
+Drimmelen,73
+Wijk bij Duurstede,50
+IJsselstein,66
+Zeist,74
+Nieuwegein,75
+Aalsmeer,76
+Alkmaar,77
+Blaricum,65
+Amstelveen,78
+Amsterdam,79
+Beemster,80
+Bergen (NH.),77
+Beverwijk,81
+Bladel,82
+Gulpen-Wittem,4
+Tynaarlo,6
+Eijsden-Margraten,14
+Stichtse Vecht,83
+Midden-Drenthe,22
+Overbetuwe,84
+Hof van Twente,32
+Neder-Betuwe,48
+Geldrop-Mierlo,85
+Olst-Wijhe,38
+Dinkelland,27
+Bloemendaal,33
+Goeree-Overflakkee,86
+Castricum,81
+Edam-Volendam,80
+Enkhuizen,87
+Haarlem,88
+Haarlemmermeer,89
+Heemskerk,81
+Heerhugowaard,90
+Hoorn,87
+Heiloo,77
+Den Helder,91
+Hilversum,92
+Papendrecht,93
+Huizen,65
+Landsmeer,94
+Langedijk,90
+Laren,65
+Purmerend,80
+Medemblik,87
+Oostzaan,95
+Opmeer,51
+Ouder-Amstel,96
+Schagen,91
+Texel,91
+Uitgeest,81
+Uithoorn,76
+Velsen,97
+Krimpenerwaard,98
+De Fryske Marren,99
+Midden-Groningen,10
+Weesp,100
+Zandvoort,33
+Barendrecht,101
+Zaanstad,95
+Alblasserdam,93
+Nissewaard,102
+Montferland,47
+Drechterland,87
+Alphen aan den Rijn,103
+Brielle,102
+Capelle aan den IJssel,104
+Delft,105
+Dordrecht,106
+Gorinchem,107
+Gouda,108
+'s-Gravenhage,109
+Hardinxveld-Giessendam,107
+Hillegom,110
+Hellevoetsluis,102
+Hendrik-Ido-Ambacht,111
+Stede Broec,87
+Katwijk,112
+Krimpen aan den IJssel,98
+Leerdam,107
+Leiden,113
+Leiderdorp,113
+Lisse,110
+Maassluis,114
+Nieuwkoop,103
+Noordwijk,110
+Noordwijkerhout,110
+Oegstgeest,112
+Oud-Beijerland,30
+Binnenmaas,30
+Korendijk,30
+Oudewater,67
+Rijswijk,115
+Ridderkerk,116
+Rotterdam,117
+Schiedam,118
+Sliedrecht,93
+Albrandswaard,119
+Westvoorne,102
+Strijen,30
+Zwijndrecht,111
+Vianen,120
+Vlaardingen,118
+Voorschoten,121
+Waddinxveen,108
+Wassenaar,121
+Woerden,67
+Zoetermeer,122
+Zoeterwoude,123
+Borsele,124
+Goes,124
+Kapelle,124
+West Maas en Waal,48
+Hulst,72
+Reimerswaal,124
+Tholen,125
+Middelburg,124
+Giessenlanden,107
+Zederik,66
+Terneuzen,72
+Pekela,10
+Reusel-De Mierden,82
+Roerdalen,71
+Roosendaal,126
+Veere,124
+Vlissingen,124
+Maasgouw,71
+Eemsmond,0
+Gemert-Bakel,127
+Halderberge,126
+Lingewaal,107
+De Ronde Venen,128
+Tytsjerksteradiel,12
+Aalburg,57
+Asten,129
+Baarle-Nassau,130
+Bergen op Zoom,125
+Best,131
+Boekel,132
+Boxmeer,133
+Boxtel,134
+Breda,135
+Deurne,127
+Dongen,136
+Eersel,82
+Eindhoven,137
+Etten-Leur,126
+Schouwen-Duiveland,86
+Aa en Hunze,138
+Geertruidenberg,73
+Gilze en Rijen,130
+Goirle,139
+Grave,56
+Haaren,140
+Helmond,127
+'s-Hertogenbosch,141
+Heusden,142
+Hilvarenbeek,139
+Loon op Zand,142
+Sint-Michielsgestel,134
+Mill en Sint Hubert,133
+"Nuenen, Gerwen en Nederwetten",143
+Oirschot,131
+Oisterwijk,140
+Oosterhout,73
+Oss,144
+Rucphen,126
+Someren,129
+Son en Breugel,145
+Nederweert,39
+Borger-Odoorn,9
+Steenbergen,125
+Waterland,80
+Tilburg,139
+Uden,132
+Valkenswaard,146
+Cuijk,133
+Veldhoven,147
+Vught,140
+Landerd,132
+De Wolden,24
+Lansingerland,148
+Leudal,71
+Noord-Beveland,124
+Wijdemeren,92
+Noordenveld,2
+Twenterand,26
+Westerveld,21
+Waalre,146
+Sint Anthonis,133
+Waalwijk,142
+Werkendam,149
+Woensdrecht,125
+Woudrichem,149
+Zundert,126
+Onderbanken,8
+Wormerland,95
+Brunssum,8
+Landgraaf,8
+Beek,3
+Mook en Middelaar,133
+Beesel,5
+Bergen (L.),133
+Gennep,133
+Heerlen,8
+Kerkrade,8
+Maastricht,14
+Meerssen,14
+Nuth,8
+Roermond,71
+Schinnen,3
+Simpelveld,4
+Venray,5
+Teylingen,110
+Heeze-Leende,85
+Laarbeek,127
+De Marne,0
+Lingewaard,150
+Bernheze,144
+Ferwerderadiel,12
+Alphen-Chaam,130
+Bergeijk,82
+Rijssen-Holten,26
+Westland,151
+Midden-Delfland,114
+Berkelland,41
+Bronckhorst,47
+Sittard-Geleen,3
+Kaag en Braassem,152
+Dantumadiel,12
+Zuidplas,153
+Peel en Maas,5
+Oldambt,10
+Zwartewaterland,35
+Súdwest-Fryslân,99
+Bodegraven-Reeuwijk,154
+Hollands Kroon,91
+Leidschendam-Voorburg,155
+Pijnacker-Nootdorp,156
+Molenwaard,93
+Gooise Meren,157
+Berg en Dal,43
+Meierijstad,158
+Waadhoeke,16
+Westerwolde,9

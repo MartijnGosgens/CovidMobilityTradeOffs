@@ -1,0 +1,381 @@
+name,rivm,inhabitant_frac_new,rivm2
+Appingedam,Appingedam,1.0,Appingedam
+Bedum,Westerkwartier,0.09453790988227866,Westerkwartier
+Ten Boer,Groningen,0.03180628272251309,Groningen
+Delfzijl,Delfzijl,1.0,Delfzijl
+Groningen,Groningen,0.8827879581151833,Groningen
+Grootegast,Westerkwartier,0.10973794596545036,Westerkwartier
+Stein,Stein,1.0,Stein
+Vaals,Vaals,1.0,Vaals
+Venlo,Venlo,1.0,Venlo
+Haren,Groningen,0.08540575916230367,Groningen
+Leek,Westerkwartier,0.1770781651707185,Westerkwartier
+Loppersum,Loppersum,1.0,Loppersum
+Marum,Westerkwartier,0.0938162464480628,Westerkwartier
+Almere,Almere,1.0,Almere
+Voerendaal,Voerendaal,1.0,Voerendaal
+Stadskanaal,Stadskanaal,1.0,Stadskanaal
+Veendam,Veendam,1.0,Veendam
+Zeewolde,Zeewolde,1.0,Zeewolde
+Winsum,Westerkwartier,0.12268278381669748,Westerkwartier
+Zuidhorn,Westerkwartier,0.17013215461639078,Westerkwartier
+Dongeradeel,Noardeast-Fryslân,0.5254833040421792,Noardeast-Fryslân
+Achtkarspelen,Achtkarspelen,1.0,Achtkarspelen
+Ameland,Ameland,1.0,Ameland
+Valkenburg aan de Geul,Valkenburg aan de Geul,1.0,Valkenburg aan de Geul
+Arnhem,Arnhem,1.0,Arnhem
+Harlingen,Harlingen,1.0,Harlingen
+Heerenveen,Heerenveen,1.0,Heerenveen
+Kollumerland en Nieuwkruisland,Noardeast-Fryslân,0.2827328646748682,Noardeast-Fryslân
+Leeuwarden,Leeuwarden,1.0,Leeuwarden
+Ooststellingwerf,Ooststellingwerf,1.0,Ooststellingwerf
+Opsterland,Opsterland,1.0,Opsterland
+Schiermonnikoog,Schiermonnikoog,1.0,Schiermonnikoog
+Smallingerland,Smallingerland,1.0,Smallingerland
+Terschelling,Terschelling,1.0,Terschelling
+Vlieland,Vlieland,1.0,Vlieland
+Weststellingwerf,Weststellingwerf,1.0,Weststellingwerf
+Assen,Assen,1.0,Assen
+Coevorden,Coevorden,1.0,Coevorden
+Emmen,Emmen,1.0,Emmen
+Hoogeveen,Hoogeveen,1.0,Hoogeveen
+Meppel,Meppel,1.0,Meppel
+Almelo,Almelo,1.0,Almelo
+Borne,Borne,1.0,Borne
+Dalfsen,Dalfsen,1.0,Dalfsen
+Deventer,Deventer,1.0,Deventer
+Cromstrijen,Hoeksche Waard,0.14936088250744178,Hoeksche Waard
+Enschede,Enschede,1.0,Enschede
+Barneveld,Barneveld,1.0,Barneveld
+Haaksbergen,Haaksbergen,1.0,Haaksbergen
+Hardenberg,Hardenberg,1.0,Hardenberg
+Hellendoorn,Hellendoorn,1.0,Hellendoorn
+Heemstede,Heemstede,1.0,Heemstede
+Diemen,Diemen,1.0,Diemen
+Hengelo,Hengelo,1.0,Hengelo
+Harderwijk,Harderwijk,1.0,Harderwijk
+Kampen,Kampen,1.0,Kampen
+Losser,Losser,1.0,Losser
+Noordoostpolder,Noordoostpolder,1.0,Noordoostpolder
+Haarlemmerliede en Spaarnwoude,Haarlemmermeer,0.03735452177640038,Haarlemmermeer
+Oldenzaal,Oldenzaal,1.0,Oldenzaal
+Ommen,Ommen,1.0,Ommen
+Raalte,Raalte,1.0,Raalte
+Staphorst,Staphorst,1.0,Staphorst
+Tubbergen,Tubbergen,1.0,Tubbergen
+Urk,Urk,1.0,Urk
+Weert,Weert,1.0,Weert
+Wierden,Wierden,1.0,Wierden
+Zwolle,Zwolle,1.0,Zwolle
+Aalten,Aalten,1.0,Aalten
+Apeldoorn,Apeldoorn,1.0,Apeldoorn
+Beuningen,Beuningen,1.0,Beuningen
+Brummen,Brummen,1.0,Brummen
+Buren,Buren,1.0,Buren
+Culemborg,Culemborg,1.0,Culemborg
+Doesburg,Doesburg,1.0,Doesburg
+Doetinchem,Doetinchem,1.0,Doetinchem
+Druten,Druten,1.0,Druten
+Lelystad,Lelystad,1.0,Lelystad
+Horst aan de Maas,Horst aan de Maas,1.0,Horst aan de Maas
+Oude IJsselstreek,Oude IJsselstreek,1.0,Oude IJsselstreek
+Utrechtse Heuvelrug,Utrechtse Heuvelrug,1.0,Utrechtse Heuvelrug
+Oost Gelre,Oost Gelre,1.0,Oost Gelre
+Koggenland,Koggenland,1.0,Koggenland
+Hattem,Hattem,1.0,Hattem
+Duiven,Duiven,1.0,Duiven
+Ede,Ede,1.0,Ede
+Elburg,Elburg,1.0,Elburg
+Rozendaal,Rozendaal,1.0,Rozendaal
+Epe,Epe,1.0,Epe
+Ermelo,Ermelo,1.0,Ermelo
+Geldermalsen,West Betuwe,0.5308568004793289,West Betuwe
+Westervoort,Westervoort,1.0,Westervoort
+Heerde,Heerde,1.0,Heerde
+Heumen,Heumen,1.0,Heumen
+Lochem,Lochem,1.0,Lochem
+Zutphen,Zutphen,1.0,Zutphen
+Maasdriel,Maasdriel,1.0,Maasdriel
+Nijkerk,Nijkerk,1.0,Nijkerk
+Nijmegen,Nijmegen,1.0,Nijmegen
+Oldebroek,Oldebroek,1.0,Oldebroek
+Putten,Putten,1.0,Putten
+Renkum,Renkum,1.0,Renkum
+Rheden,Rheden,1.0,Rheden
+Bunschoten,Bunschoten,1.0,Bunschoten
+Scherpenzeel,Scherpenzeel,1.0,Scherpenzeel
+Tiel,Tiel,1.0,Tiel
+Voorst,Voorst,1.0,Voorst
+Wageningen,Wageningen,1.0,Wageningen
+Winterswijk,Winterswijk,1.0,Winterswijk
+Wijchen,Wijchen,1.0,Wijchen
+Zaltbommel,Zaltbommel,1.0,Zaltbommel
+Zevenaar,Zevenaar,1.0,Zevenaar
+Nunspeet,Nunspeet,1.0,Nunspeet
+Dronten,Dronten,1.0,Dronten
+Neerijnen,West Betuwe,0.2463551028560016,West Betuwe
+Amersfoort,Amersfoort,1.0,Amersfoort
+Baarn,Baarn,1.0,Baarn
+De Bilt,De Bilt,1.0,De Bilt
+Bunnik,Bunnik,1.0,Bunnik
+Eemnes,Eemnes,1.0,Eemnes
+Houten,Houten,1.0,Houten
+Leusden,Leusden,1.0,Leusden
+Lopik,Lopik,1.0,Lopik
+Montfoort,Montfoort,1.0,Montfoort
+Renswoude,Renswoude,1.0,Renswoude
+Steenwijkerland,Steenwijkerland,1.0,Steenwijkerland
+Rhenen,Rhenen,1.0,Rhenen
+Soest,Soest,1.0,Soest
+Utrecht,Utrecht,1.0,Utrecht
+Veenendaal,Veenendaal,1.0,Veenendaal
+Woudenberg,Woudenberg,1.0,Woudenberg
+Cranendonck,Cranendonck,1.0,Cranendonck
+Moerdijk,Moerdijk,1.0,Moerdijk
+Echt-Susteren,Echt-Susteren,1.0,Echt-Susteren
+Sluis,Sluis,1.0,Sluis
+Drimmelen,Drimmelen,1.0,Drimmelen
+Wijk bij Duurstede,Wijk bij Duurstede,1.0,Wijk bij Duurstede
+IJsselstein,IJsselstein,1.0,IJsselstein
+Zeist,Zeist,1.0,Zeist
+Nieuwegein,Nieuwegein,1.0,Nieuwegein
+Aalsmeer,Aalsmeer,1.0,Aalsmeer
+Alkmaar,Alkmaar,1.0,Alkmaar
+Blaricum,Blaricum,1.0,Blaricum
+Amstelveen,Amstelveen,1.0,Amstelveen
+Amsterdam,Amsterdam,1.0,Amsterdam
+Beemster,Beemster,1.0,Beemster
+Bergen (NH.),Bergen (NH.),1.0,Bergen (NH.)
+Beverwijk,Beverwijk,1.0,Beverwijk
+Bladel,Bladel,1.0,Bladel
+Gulpen-Wittem,Gulpen-Wittem,1.0,Gulpen-Wittem
+Tynaarlo,Tynaarlo,1.0,Tynaarlo
+Eijsden-Margraten,Eijsden-Margraten,1.0,Eijsden-Margraten
+Stichtse Vecht,Stichtse Vecht,1.0,Stichtse Vecht
+Midden-Drenthe,Midden-Drenthe,1.0,Midden-Drenthe
+Overbetuwe,Overbetuwe,1.0,Overbetuwe
+Hof van Twente,Hof van Twente,1.0,Hof van Twente
+Neder-Betuwe,Neder-Betuwe,1.0,Neder-Betuwe
+Geldrop-Mierlo,Geldrop-Mierlo,1.0,Geldrop-Mierlo
+Olst-Wijhe,Olst-Wijhe,1.0,Olst-Wijhe
+Dinkelland,Dinkelland,1.0,Dinkelland
+Bloemendaal,Bloemendaal,1.0,Bloemendaal
+Goeree-Overflakkee,Goeree-Overflakkee,1.0,Goeree-Overflakkee
+Castricum,Castricum,1.0,Castricum
+Edam-Volendam,Edam-Volendam,1.0,Edam-Volendam
+Enkhuizen,Enkhuizen,1.0,Enkhuizen
+Haarlem,Haarlem,1.0,Haarlem
+Haarlemmermeer,Haarlemmermeer,0.9626454782235996,Haarlemmermeer
+Heemskerk,Heemskerk,1.0,Heemskerk
+Heerhugowaard,Heerhugowaard,1.0,Heerhugowaard
+Hoorn,Hoorn,1.0,Hoorn
+Heiloo,Heiloo,1.0,Heiloo
+Den Helder,Den Helder,1.0,Den Helder
+Hilversum,Hilversum,1.0,Hilversum
+Papendrecht,Papendrecht,1.0,Papendrecht
+Huizen,Huizen,1.0,Huizen
+Landsmeer,Landsmeer,1.0,Landsmeer
+Langedijk,Langedijk,1.0,Langedijk
+Laren,Laren,1.0,Laren
+Purmerend,Purmerend,1.0,Purmerend
+Medemblik,Medemblik,1.0,Medemblik
+Oostzaan,Oostzaan,1.0,Oostzaan
+Opmeer,Opmeer,1.0,Opmeer
+Ouder-Amstel,Ouder-Amstel,1.0,Ouder-Amstel
+Schagen,Schagen,1.0,Schagen
+Texel,Texel,1.0,Texel
+Uitgeest,Uitgeest,1.0,Uitgeest
+Uithoorn,Uithoorn,1.0,Uithoorn
+Velsen,Velsen,1.0,Velsen
+Krimpenerwaard,Krimpenerwaard,1.0,Krimpenerwaard
+De Fryske Marren,De Fryske Marren,1.0,De Fryske Marren
+Midden-Groningen,Midden-Groningen,1.0,Midden-Groningen
+Weesp,Weesp,1.0,Weesp
+Zandvoort,Zandvoort,1.0,Zandvoort
+Barendrecht,Barendrecht,1.0,Barendrecht
+Zaanstad,Zaanstad,1.0,Zaanstad
+Alblasserdam,Alblasserdam,1.0,Alblasserdam
+Nissewaard,Nissewaard,1.0,Nissewaard
+Montferland,Montferland,1.0,Montferland
+Drechterland,Drechterland,1.0,Drechterland
+Alphen aan den Rijn,Alphen aan den Rijn,1.0,Alphen aan den Rijn
+Brielle,Brielle,1.0,Brielle
+Capelle aan den IJssel,Capelle aan den IJssel,1.0,Capelle aan den IJssel
+Delft,Delft,1.0,Delft
+Dordrecht,Dordrecht,1.0,Dordrecht
+Gorinchem,Gorinchem,1.0,Gorinchem
+Gouda,Gouda,1.0,Gouda
+'s-Gravenhage,s-Gravenhage,1.0,'s-Gravenhage
+Hardinxveld-Giessendam,Hardinxveld-Giessendam,1.0,Hardinxveld-Giessendam
+Hillegom,Hillegom,1.0,Hillegom
+Hellevoetsluis,Hellevoetsluis,1.0,Hellevoetsluis
+Hendrik-Ido-Ambacht,Hendrik-Ido-Ambacht,1.0,Hendrik-Ido-Ambacht
+Stede Broec,Stede Broec,1.0,Stede Broec
+Katwijk,Katwijk,1.0,Katwijk
+Krimpen aan den IJssel,Krimpen aan den IJssel,1.0,Krimpen aan den IJssel
+Leerdam,Vijfheerenlanden,0.3837679030481087,Vijfheerenlanden
+Leiden,Leiden,1.0,Leiden
+Leiderdorp,Leiderdorp,1.0,Leiderdorp
+Lisse,Lisse,1.0,Lisse
+Maassluis,Maassluis,1.0,Maassluis
+Nieuwkoop,Nieuwkoop,1.0,Nieuwkoop
+Noordwijk,Noordwijk,0.6129032258064516,Noordwijk
+Noordwijkerhout,Noordwijk,0.3870967741935484,Noordwijk
+Oegstgeest,Oegstgeest,1.0,Oegstgeest
+Oud-Beijerland,Hoeksche Waard,0.2803361933111539,Hoeksche Waard
+Binnenmaas,Hoeksche Waard,0.33987042549465946,Hoeksche Waard
+Korendijk,Hoeksche Waard,0.12788186540594176,Hoeksche Waard
+Oudewater,Oudewater,1.0,Oudewater
+Rijswijk,Rijswijk,1.0,Rijswijk
+Ridderkerk,Ridderkerk,1.0,Ridderkerk
+Rotterdam,Rotterdam,1.0,Rotterdam
+Schiedam,Schiedam,1.0,Schiedam
+Sliedrecht,Sliedrecht,1.0,Sliedrecht
+Albrandswaard,Albrandswaard,1.0,Albrandswaard
+Westvoorne,Westvoorne,1.0,Westvoorne
+Strijen,Hoeksche Waard,0.10255063328080312,Hoeksche Waard
+Zwijndrecht,Zwijndrecht,1.0,Zwijndrecht
+Vianen,Vijfheerenlanden,0.3621006243114212,Vijfheerenlanden
+Vlaardingen,Vlaardingen,1.0,Vlaardingen
+Voorschoten,Voorschoten,1.0,Voorschoten
+Waddinxveen,Waddinxveen,1.0,Waddinxveen
+Wassenaar,Wassenaar,1.0,Wassenaar
+Woerden,Woerden,1.0,Woerden
+Zoetermeer,Zoetermeer,1.0,Zoetermeer
+Zoeterwoude,Zoeterwoude,1.0,Zoeterwoude
+Borsele,Borsele,1.0,Borsele
+Goes,Goes,1.0,Goes
+Kapelle,Kapelle,1.0,Kapelle
+West Maas en Waal,West Maas en Waal,1.0,West Maas en Waal
+Hulst,Hulst,1.0,Hulst
+Reimerswaal,Reimerswaal,1.0,Reimerswaal
+Tholen,Tholen,1.0,Tholen
+Middelburg,Middelburg,1.0,Middelburg
+Giessenlanden,Molenlanden,0.33310494461573603,Molenlanden
+Zederik,Vijfheerenlanden,0.2541314726404701,Vijfheerenlanden
+Terneuzen,Terneuzen,1.0,Terneuzen
+Pekela,Pekela,1.0,Pekela
+Reusel-De Mierden,Reusel-De Mierden,1.0,Reusel-De Mierden
+Roerdalen,Roerdalen,1.0,Roerdalen
+Roosendaal,Roosendaal,1.0,Roosendaal
+Veere,Veere,1.0,Veere
+Vlissingen,Vlissingen,1.0,Vlissingen
+Maasgouw,Maasgouw,1.0,Maasgouw
+Eemsmond,Westerkwartier,0.14122051328311758,Westerkwartier
+Gemert-Bakel,Gemert-Bakel,1.0,Gemert-Bakel
+Halderberge,Halderberge,1.0,Halderberge
+Lingewaal,West Betuwe,0.22278809666466945,West Betuwe
+De Ronde Venen,De Ronde Venen,1.0,De Ronde Venen
+Tytsjerksteradiel,Tytsjerksteradiel,1.0,Tytsjerksteradiel
+Aalburg,Altena,0.2400624254108143,Altena
+Asten,Asten,1.0,Asten
+Baarle-Nassau,Baarle-Nassau,1.0,Baarle-Nassau
+Bergen op Zoom,Bergen op Zoom,1.0,Bergen op Zoom
+Best,Best,1.0,Best
+Boekel,Boekel,1.0,Boekel
+Boxmeer,Boxmeer,1.0,Boxmeer
+Boxtel,Boxtel,1.0,Boxtel
+Breda,Breda,1.0,Breda
+Deurne,Deurne,1.0,Deurne
+Dongen,Dongen,1.0,Dongen
+Eersel,Eersel,1.0,Eersel
+Eindhoven,Eindhoven,1.0,Eindhoven
+Etten-Leur,Etten-Leur,1.0,Etten-Leur
+Schouwen-Duiveland,Schouwen-Duiveland,1.0,Schouwen-Duiveland
+Aa en Hunze,Aa en Hunze,1.0,Aa en Hunze
+Geertruidenberg,Geertruidenberg,1.0,Geertruidenberg
+Gilze en Rijen,Gilze en Rijen,1.0,Gilze en Rijen
+Goirle,Goirle,1.0,Goirle
+Grave,Grave,1.0,Grave
+Haaren,Haaren,1.0,Haaren
+Helmond,Helmond,1.0,Helmond
+'s-Hertogenbosch,'s-Hertogenbosch,1.0,'s-Hertogenbosch
+Heusden,Heusden,1.0,Heusden
+Hilvarenbeek,Hilvarenbeek,1.0,Hilvarenbeek
+Loon op Zand,Loon op Zand,1.0,Loon op Zand
+Sint-Michielsgestel,Sint-Michielsgestel,1.0,Sint-Michielsgestel
+Mill en Sint Hubert,Mill en Sint Hubert,1.0,Mill en Sint Hubert
+"Nuenen, Gerwen en Nederwetten","Nuenen, Gerwen en Nederwetten",1.0,"Nuenen, Gerwen en Nederwetten"
+Oirschot,Oirschot,1.0,Oirschot
+Oisterwijk,Oisterwijk,1.0,Oisterwijk
+Oosterhout,Oosterhout,1.0,Oosterhout
+Oss,Oss,1.0,Oss
+Rucphen,Rucphen,1.0,Rucphen
+Someren,Someren,1.0,Someren
+Son en Breugel,Son en Breugel,1.0,Son en Breugel
+Nederweert,Nederweert,1.0,Nederweert
+Borger-Odoorn,Borger-Odoorn,1.0,Borger-Odoorn
+Steenbergen,Steenbergen,1.0,Steenbergen
+Waterland,Waterland,1.0,Waterland
+Tilburg,Tilburg,1.0,Tilburg
+Uden,Uden,1.0,Uden
+Valkenswaard,Valkenswaard,1.0,Valkenswaard
+Cuijk,Cuijk,1.0,Cuijk
+Veldhoven,Veldhoven,1.0,Veldhoven
+Vught,Vught,1.0,Vught
+Landerd,Landerd,1.0,Landerd
+De Wolden,De Wolden,1.0,De Wolden
+Lansingerland,Lansingerland,1.0,Lansingerland
+Leudal,Leudal,1.0,Leudal
+Noord-Beveland,Noord-Beveland,1.0,Noord-Beveland
+Wijdemeren,Wijdemeren,1.0,Wijdemeren
+Noordenveld,Noordenveld,1.0,Noordenveld
+Twenterand,Twenterand,1.0,Twenterand
+Westerveld,Westerveld,1.0,Westerveld
+Waalre,Waalre,1.0,Waalre
+Sint Anthonis,Sint Anthonis,1.0,Sint Anthonis
+Waalwijk,Waalwijk,1.0,Waalwijk
+Werkendam,Altena,0.4928853392086661,Altena
+Woensdrecht,Woensdrecht,1.0,Woensdrecht
+Woudrichem,Altena,0.2670522353805196,Altena
+Zundert,Zundert,1.0,Zundert
+Onderbanken,Beekdaelen,0.21746954595791806,Beekdaelen
+Wormerland,Wormerland,1.0,Wormerland
+Brunssum,Brunssum,1.0,Brunssum
+Landgraaf,Landgraaf,1.0,Landgraaf
+Beek,Beek,1.0,Beek
+Mook en Middelaar,Mook en Middelaar,1.0,Mook en Middelaar
+Beesel,Beesel,1.0,Beesel
+Bergen (L.),Bergen (L.),1.0,Bergen (L.)
+Gennep,Gennep,1.0,Gennep
+Heerlen,Heerlen,1.0,Heerlen
+Kerkrade,Kerkrade,1.0,Kerkrade
+Maastricht,Maastricht,1.0,Maastricht
+Meerssen,Meerssen,1.0,Meerssen
+Nuth,Beekdaelen,0.4237264673311185,Beekdaelen
+Roermond,Roermond,1.0,Roermond
+Schinnen,Beekdaelen,0.3588039867109635,Beekdaelen
+Simpelveld,Simpelveld,1.0,Simpelveld
+Venray,Venray,1.0,Venray
+Teylingen,Teylingen,1.0,Teylingen
+Heeze-Leende,Heeze-Leende,1.0,Heeze-Leende
+Laarbeek,Laarbeek,1.0,Laarbeek
+De Marne,Westerkwartier,0.09079428081728384,Westerkwartier
+Lingewaard,Lingewaard,1.0,Lingewaard
+Bernheze,Bernheze,1.0,Bernheze
+Ferwerderadiel,Noardeast-Fryslân,0.19178383128295254,Noardeast-Fryslân
+Alphen-Chaam,Alphen-Chaam,1.0,Alphen-Chaam
+Bergeijk,Bergeijk,1.0,Bergeijk
+Rijssen-Holten,Rijssen-Holten,1.0,Rijssen-Holten
+Westland,Westland,1.0,Westland
+Midden-Delfland,Midden-Delfland,1.0,Midden-Delfland
+Berkelland,Berkelland,1.0,Berkelland
+Bronckhorst,Bronckhorst,1.0,Bronckhorst
+Sittard-Geleen,Sittard-Geleen,1.0,Sittard-Geleen
+Kaag en Braassem,Kaag en Braassem,1.0,Kaag en Braassem
+Dantumadiel,Dantumadiel,1.0,Dantumadiel
+Zuidplas,Zuidplas,1.0,Zuidplas
+Peel en Maas,Peel en Maas,1.0,Peel en Maas
+Oldambt,Oldambt,1.0,Oldambt
+Zwartewaterland,Zwartewaterland,1.0,Zwartewaterland
+Súdwest-Fryslân,Súdwest-Fryslân,1.0,Súdwest-Fryslân
+Bodegraven-Reeuwijk,Bodegraven-Reeuwijk,1.0,Bodegraven-Reeuwijk
+Hollands Kroon,Hollands Kroon,1.0,Hollands Kroon
+Leidschendam-Voorburg,Leidschendam-Voorburg,1.0,Leidschendam-Voorburg
+Pijnacker-Nootdorp,Pijnacker-Nootdorp,1.0,Pijnacker-Nootdorp
+Molenwaard,Molenlanden,0.6668950553842641,Molenlanden
+Gooise Meren,Gooise Meren,1.0,Gooise Meren
+Berg en Dal,Berg en Dal,1.0,Berg en Dal
+Meierijstad,Meierijstad,1.0,Meierijstad
+Waadhoeke,Waadhoeke,1.0,Waadhoeke
+Westerwolde,Westerwolde,1.0,Westerwolde
