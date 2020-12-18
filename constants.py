@@ -6,7 +6,7 @@ class CoronaConstants:
     contacts_average = 13.85        # c
     fraction_local_contacts = 0.5   # rho
     basic_reproduction_number = 1.25   
-    transmission_prob = 1.25/52.506013751047256      # epsilon
+    transmission_prob = 1.25*0.01390958192240339      # epsilon
     
     # Mobility constants
     population_nl = 17242149          # population in the Netherlands
@@ -26,7 +26,11 @@ class CoronaConstants:
             setattr(self, key, value)
 
         # Recompute dependent constants
-        self.transmission_prob = self.basic_reproduction_number / 52.506013751047256      # epsilon
-        self.contacts_local = self.fraction_local_contacts * self.contacts_average  # rho*c
-        self.contacts_per_visit = (1 - self.fraction_local_contacts) * self.contacts_average * self.population_nl / (
-                    2 * self.average_total_mobility)  # c_m : see supplementary material
+        if 'transmission_prob' not in kwargs:
+            self.transmission_prob = self.basic_reproduction_number * 0.01390958192240339  # epsilon
+        if 'contacts_local' not in kwargs:
+            self.contacts_local = self.fraction_local_contacts * self.contacts_average  # rho*c
+        if 'contacts_per_visit' not in kwargs:
+            self.contacts_per_visit = (1 - self.fraction_local_contacts) * self.contacts_average * self.population_nl / (
+                2 * self.average_total_mobility
+            )  # c_m : see supplementary material

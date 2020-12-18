@@ -33,7 +33,7 @@ class RivmLoader:
             return 0
         data = self.mmdd2cumulatives[mmdd]
         return pd.Series({
-            i: data[koppeltabel.loc[i, 'rivm2']] * koppeltabel.loc[i, 'inhabitant_frac_new']
+            i: data[koppeltabel.loc[i, 'rivm']] * koppeltabel.loc[i, 'inhabitant_frac_new']
             for i in gemeente_shapes.index
         })
 

@@ -1,166 +1,166 @@
 {
     "mobility_performances": {
         "0.15": {
-            "Mobility": 96.1175518512726,
-            "Infections": 263.69385764411896
+            "Mobility": 96.11755185127251,
+            "Infections": 99.75053449771887
         },
         "0.25": {
-            "Mobility": 88.61515527840213,
-            "Infections": 225.2892375920749
+            "Mobility": 88.61515527840226,
+            "Infections": 87.98314549737114
         },
         "0.5": {
             "Mobility": 80.71612560180388,
-            "Infections": 173.72401069505628
+            "Infections": 70.39463468375408
         },
         "1.0": {
-            "Mobility": 74.9949152075321,
-            "Infections": 167.2397971144441
+            "Mobility": 74.99491520753212,
+            "Infections": 68.14594854023983
         },
         "2.0": {
             "Mobility": 67.10041195314717,
-            "Infections": 151.75981318953
+            "Infections": 63.06534057967026
         },
         "2.5": {
-            "Mobility": 62.5853897008302,
-            "Infections": 119.18781034372607
+            "Mobility": 62.58538970083022,
+            "Infections": 51.553563143372735
         },
         "3.0": {
-            "Mobility": 59.06400556231107,
-            "Infections": 112.72931799924955
+            "Mobility": 59.06400556231108,
+            "Infections": 49.35747016753013
         },
         "4.0": {
             "Mobility": 53.83719732193896,
-            "Infections": 111.54361915266608
+            "Infections": 48.921636527943846
         },
         "8.0": {
-            "Mobility": 42.71368853238304,
-            "Infections": 90.88997241451247
+            "Mobility": 42.713688532383046,
+            "Infections": 41.345916799051764
         },
         "16.0": {
             "Mobility": 28.345413142993387,
-            "Infections": 80.63728720610065
+            "Infections": 37.56103681320145
         },
         "32.0": {
             "Mobility": 15.637390088438929,
-            "Infections": 49.117905899752614
+            "Infections": 24.63269538804496
         }
     },
     "adaptive_mobility_performances": {
         "200": {
-            "Mobility": 99.50501683529184,
-            "Infections": 139.28772051202867
+            "Mobility": 99.50501683529143,
+            "Infections": 55.56469905835048
         },
         "3000": {
-            "Mobility": 95.0360262296976,
-            "Infections": 97.91114191216515
+            "Mobility": 95.03602622969775,
+            "Infections": 41.84578561841628
         },
         "4000": {
-            "Mobility": 94.48776074757846,
-            "Infections": 99.02345201720314
+            "Mobility": 94.48776074757838,
+            "Infections": 42.52957498219034
         },
         "8000": {
             "Mobility": 93.1100911467767,
-            "Infections": 78.97086120935103
+            "Infections": 35.10725892260465
         },
         "12000": {
-            "Mobility": 92.59339404460677,
-            "Infections": 77.85032591843553
+            "Mobility": 92.59339404460698,
+            "Infections": 34.747425152522034
         },
         "30000": {
-            "Mobility": 89.06225662615653,
-            "Infections": 66.08629266246166
+            "Mobility": 89.06225662615658,
+            "Infections": 30.38751755435056
         },
         "100000": {
-            "Mobility": 80.64644611512499,
-            "Infections": 56.40841970196052
+            "Mobility": 80.64644611512509,
+            "Infections": 26.83386189325044
         },
         "200000": {
-            "Mobility": 72.8579401336155,
-            "Infections": 47.923787047049096
+            "Mobility": 72.85794013361559,
+            "Infections": 23.646935051362767
         },
         "800000": {
-            "Mobility": 58.62889282333592,
-            "Infections": 40.181700572595126
+            "Mobility": 58.62889282333599,
+            "Infections": 20.65117420536708
         }
     },
     "optimized_performances": {
-        "Adaptive mobility regions res=30000 optimized for 17438": {
-            "Mobility": 92.35674903731669,
-            "Infections": 72.65409434087414
+        "Adaptive mobility regions res=30000 optimized for 47766": {
+            "Mobility": 92.35674903731665,
+            "Infections": 32.58760474568499
         },
-        "Adaptive mobility regions res=30000 optimized for 34876": {
-            "Mobility": 89.71797733564586,
-            "Infections": 66.51970873070036
+        "Adaptive mobility regions res=30000 optimized for 95532": {
+            "Mobility": 89.71797733564577,
+            "Infections": 30.533193771293774
         },
-        "Adaptive mobility regions res=800000 optimized for 17438": {
-            "Mobility": 89.27175911493491,
-            "Infections": 55.87161957551853
+        "Adaptive mobility regions res=800000 optimized for 47766": {
+            "Mobility": 89.68811566039635,
+            "Infections": 26.101723806182527
         },
-        "Adaptive mobility regions res=800000 optimized for 34876": {
-            "Mobility": 85.72763246662024,
-            "Infections": 48.46764406054648
+        "Adaptive mobility regions res=800000 optimized for 95532": {
+            "Mobility": 85.62883525200782,
+            "Infections": 23.450860839807763
         },
-        "Mobility regions res=1.0 optimized for 17438": {
-            "Mobility": 92.26304439877609,
-            "Infections": 175.07638675497466
+        "Mobility regions res=1.0 optimized for 47766": {
+            "Mobility": 92.26304439877624,
+            "Infections": 70.70220870269448
         },
-        "Mobility regions res=1.0 optimized for 34876": {
-            "Mobility": 89.77643694919021,
-            "Infections": 170.5978009334623
+        "Mobility regions res=1.0 optimized for 95532": {
+            "Mobility": 89.77643694919043,
+            "Infections": 69.25985428936714
         },
-        "Mobility regions res=16.0 optimized for 17438": {
+        "Mobility regions res=16.0 optimized for 47766": {
             "Mobility": 90.41892622080678,
-            "Infections": 93.9742012579878
+            "Infections": 42.178143247361575
         },
-        "Mobility regions res=16.0 optimized for 34876": {
-            "Mobility": 89.04029667947408,
-            "Infections": 91.72489881686356
+        "Mobility regions res=16.0 optimized for 95532": {
+            "Mobility": 89.04029667947425,
+            "Infections": 41.39715537711134
         },
-        "Provinces optimized for 17438": {
+        "Provinces optimized for 47766": {
             "Mobility": 92.80146146643287,
-            "Infections": 181.97742080019452
+            "Infections": 73.51119949045216
         },
-        "Provinces optimized for 34876": {
-            "Mobility": 91.88509240165232,
-            "Infections": 180.199029798908
+        "Provinces optimized for 95532": {
+            "Mobility": 91.8850924016525,
+            "Infections": 72.89538154961257
         },
-        "Security regions optimized for 17438": {
-            "Mobility": 93.65103729299534,
-            "Infections": 130.82756139887692
+        "Security regions optimized for 47766": {
+            "Mobility": 93.65103729299517,
+            "Infections": 55.84626903675297
         },
-        "Security regions optimized for 34876": {
-            "Mobility": 90.63875291379334,
-            "Infections": 124.31697874231882
+        "Security regions optimized for 95532": {
+            "Mobility": 90.63875291379355,
+            "Infections": 53.6525346006138
         }
     },
     "benchmark_performances": {
         "Min restrictions": {
-            "Mobility": 100.00000000000038,
-            "Infections": 266.71998032243556
+            "Mobility": 99.99999999999983,
+            "Infections": 100.6414392534651
         },
         "Max restrictions": {
             "Mobility": 0.0,
-            "Infections": 35.663009961484
+            "Infections": 18.90748186967362
         },
         "Provinces": {
-            "Mobility": 68.96859243882543,
-            "Infections": 173.71773112188794
+            "Mobility": 68.96859243882547,
+            "Infections": 70.76644744239948
         },
         "Security regions": {
-            "Mobility": 50.39467590202235,
-            "Infections": 116.21896346179628
+            "Mobility": 50.394675902022364,
+            "Infections": 50.912882156169374
         },
         "Isolated municipality": {
-            "Mobility": 99.50501683529184,
-            "Infections": 139.28772051202867
+            "Mobility": 99.50501683529143,
+            "Infections": 55.56469905835048
         },
         "Isolated province": {
             "Mobility": 92.80146146643287,
-            "Infections": 181.97742080019452
+            "Infections": 73.51119949045216
         },
-        "Isolated safety region": {
-            "Mobility": 95.91633387891068,
-            "Infections": 139.03340543973368
+        "Isolated security region": {
+            "Mobility": 95.91633387891031,
+            "Infections": 58.59246793616404
         }
     }
 }

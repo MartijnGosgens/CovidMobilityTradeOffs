@@ -263,7 +263,7 @@ def sensitivity_analysis(name,values,symbol,load_performances=True):
     for value in values:
         performances_plot(name="concentrated",
                           init_file=init_path("concentrated.csv"),
-                          file_name="concentrated_{}_{}".format(symbol,value),
+                          file_name="concentrated_{}_{}".format(symbol,value).replace('.','_'),
                           shown_starts=[
                               'Adaptive mobility regions res=800000',
                               'Adaptive mobility regions res=30000',
@@ -295,19 +295,10 @@ def sensitivity_analysis_v(v_min=3 ,v_max=7.5, symbol="v",load_performances=True
     # figure takes long to generate for resolution = 20 (45 minutes), test with resolution=4 (<1 min)
     # resolution = 20 means 21*21 pixels
 def effective_reproduction_number(resolution=20):
-    from numpy import linalg as LA
     from .rivm_loader import rivm
-    from .mobility import mobility
 
     # No infections initialized.
     init_df = rivm.concentrated_init(0, "Eindhoven")
-    areas = init_df.index
-
-    infectious_period = CoronaConstants.infectious_period
-    contacts_average = CoronaConstants.contacts_average
-    transmission_prob = CoronaConstants.transmission_prob
-    population_nl = CoronaConstants.population_nl
-    average_total_mobility = CoronaConstants.average_total_mobility
 
     grid = []
     for p in range(1,resolution+2):
@@ -315,23 +306,8 @@ def effective_reproduction_number(resolution=20):
         for alpha in range (1,resolution+2):
             fraction_local_contacts=(p-1)/(resolution)
             fraction_tested=(alpha-1)/(resolution)
-            contacts_per_visit = (1-fraction_local_contacts)*contacts_average*population_nl/(
-                2*average_total_mobility)
-
-            # two factors which go in fron on the diagonal and off-diagonal spots, respectively:
-            local_R = transmission_prob*contacts_average*fraction_local_contacts*infectious_period
-            mobile_R = (1-fraction_tested)*infectious_period*contacts_per_visit*transmission_prob
-
-            r_matrix = np.array([
-                [
-                    local_R if a1==a2 else mobile_R * mobility[a1,a2] / susceptibles
-                    for a2 in areas
-                ]
-                for a1, susceptibles in init_df['susceptible'].items()
-            ])
-            # Find largest eigenvalue
-            w,_ = LA.eig(r_matrix)
-            row.append(max(abs(w)))
+            seir = MobilitySEIR(init_df,constants=CoronaConstants(fraction_local_contacts=fraction_local_contacts,fraction_tested=fraction_tested))
+            row.append(seir.basic_reproduction_number())
         grid.append(row)
     
     # Plot numpy array:

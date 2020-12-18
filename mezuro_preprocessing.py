@@ -95,51 +95,34 @@ mezuro2mezuro['bezoek'] = [
 mezuro2mezuro=mezuro2mezuro.set_index(['woon','bezoek','datum'])
 
 def create_koppeltabel():
-    # Take koppeltabel
-    koppeltabel=pd.read_csv(
-        data_path('koppeltabel_gemeenten_2018_20192020.csv')
-    )[['gem_id_2018','gem_id_20192020']].set_index('gem_id_2018')
+    from collections import defaultdict
+    code2018to2019 = pd.read_csv(
+        data_path('koppeltabel_gemeenten_2018_20192020.csv'), index_col='gem_id_2018'
+    )['gem_id_20192020'].to_dict()
+    code2020to_name = pd.read_csv('COVID_tools/data/Gemeenten2020.csv', index_col='Gemeentecode')[
+        'Gemeentenaam'].to_dict()
+    koppeltabel = pd.DataFrame()
+    koppeltabel['code2018'] = gemeente_shapes['gem_id']
+    koppeltabel['code2019'] = [
+        code2018to2019[c]
+        for a, c in koppeltabel['code2018'].items()
+    ]
+    koppeltabel['rivm'] = [
+        code2020to_name[c]
+        for c in koppeltabel['code2019']
+    ]
+    # Collect inhabitant_frac
+    inhabitant_old = gemeente_shapes['inhabitant'].to_dict()
+    inhabitant_new = defaultdict(float)
+    for a, inh in inhabitant_old.items():
+        inhabitant_new[koppeltabel['rivm'][a]] += inh
+    koppeltabel['inhabitant_frac_new'] = [
+        inh_old / inhabitant_new[koppeltabel['rivm'][a]]
+        for a, inh_old in inhabitant_old.items()
+    ]
+    koppeltabel.to_csv(data_path('koppeltabel.csv'))
 
-    # translate to names instead of indices
-    id2name=gemeente_shapes.reset_index().set_index('gem_id',drop=False)['name'].to_dict()
-    koppeltabel['name_old'] = [
-        id2name[i]
-        for i in koppeltabel.index
-    ]
-    name2newid=koppeltabel.set_index('name_old')['gem_id_20192020'].to_dict()
-    # Obtained from https://nl.wikipedia.org/wiki/Gemeentelijke_herindelingen_in_Nederland
-    id2name.update({
-        name2newid["'s-Gravenhage"]: 's-Gravenhage',
-        name2newid['Bedum']: 'Het Hogeland',
-        name2newid['Dongeradeel']: 'Noardeast-Fryslân',
-        name2newid['Geldermalsen']: 'West Betuwe',
-        name2newid['Leek']: 'Westerkwartier',
-        name2newid['Winsum']: 'Westerkwartier',
-        name2newid['Nuth']: 'Beekdaelen',
-        name2newid['Aalburg']: 'Altena',
-        name2newid['Leerdam']: 'Vijfheerenlanden',
-        name2newid['Binnenmaas']: 'Hoeksche Waard',
-        name2newid['Giessenlanden']: 'Molenlanden',
-    })
-    koppeltabel['name_new'] = [
-        id2name[i]
-        for i in koppeltabel['gem_id_20192020']
-    ]
-    old2new=koppeltabel.set_index('name_old')['name_new'].to_dict()
-    gemeente_shapes['rivm'] = [
-        old2new[i]
-        for i in gemeente_shapes.index
-    ]
-
-    # Compute the fraction of the inhabitants that the old gemeente has in the new gemeente
-    inhabitant_new = gemeente_shapes.groupby('rivm').agg({'inhabitant': 'sum'})['inhabitant'].to_dict()
-    gemeente_shapes['inhabitant_frac_new'] = [
-        row['inhabitant'] / inhabitant_new[row['rivm']]
-        for g,row in gemeente_shapes.iterrows()
-    ]
-    gemeente_shapes[['rivm','inhabitant_frac_new']].to_csv(data_path('koppeltabel.csv'))
-
-# create_koppeltabel()
+create_koppeltabel()
 koppeltabel = pd.read_csv(data_path('koppeltabel.csv'),index_col='name')
 
 # Add a column 'veiligheidsregio' to gemeente_shapes
@@ -152,7 +135,7 @@ def get_veiligheidsregios():
         veiligheidsregio[koppel_dict[g]]
         for g in gemeente_shapes.index
     ]
-get_veiligheidsregios()
+#get_veiligheidsregios()
 
 druktebeeld_provincie=pd.read_csv(mezuro_path(
     'nederland/provincie niveau/per dag/Druktebeeld bewoners en bezoekers per dag - provincie - 01-03-2019 tm 14-03-2019 - ilionx.csv'

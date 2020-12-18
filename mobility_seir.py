@@ -58,7 +58,7 @@ class MobilitySEIR:
         self.contacts_local = constants.contacts_local
         self.infectious_period = constants.infectious_period
         self.latent_period = constants.latent_period
-        self.alpha = constants.fraction_tested
+        self.fraction_tested = constants.fraction_tested
 
     # Region should either be a label in self.division or a subset of the areas.
     def simulate_region(self, region):
@@ -100,9 +100,9 @@ class MobilitySEIR:
                         It + Int
                 ) / N
                 # Exposed to infected_tested
-                infections_tested = E * self.alpha / self.latent_period
+                infections_tested = E * self.fraction_tested / self.latent_period
                 # Exposed to infected_nottested
-                infections_nottested = E * (1 - self.alpha) / self.latent_period
+                infections_nottested = E * (1 - self.fraction_tested) / self.latent_period
                 # infected_tested to removed_tested
                 removals_tested = It / self.infectious_period
                 # infected_nottested to removed_nottested
@@ -248,6 +248,18 @@ class MobilitySEIR:
         import numpy as np
         return 1 - np.exp(-self.initial_divergence())
 
+    def basic_reproduction_number(self):
+        from numpy import linalg as LA
+        K = next_generation_matrix(
+            population=sum(self.init_df[c] for c in self.compartments),
+            const=self.constants,
+            mob=self.mobility,
+            areas=self.init_df.index
+        )
+        w, v = LA.eig(K.transpose())
+        basic_reproduction_number = max(abs(w))
+        return basic_reproduction_number
+
 
 def load_initialization(init_name):
     return pd.read_csv(init_path(init_name), index_col='name')
@@ -272,3 +284,35 @@ def generate_initializations():
     evenlydistributed.to_csv(init_path('evenlydistributed.csv'))
     rivm0310.to_csv(init_path("historical0310.csv"))
     rivm0421.to_csv(init_path("historical0421.csv"))
+
+def next_generation_matrix(population=None, susceptible=None, mob=None, const=CoronaConstants, areas=None):
+    import numpy as np
+    import itertools as it
+    if mob is None:
+        from .mobility import mobility
+        mob = mobility
+    if population is None:
+        from .mezuro_preprocessing import gemeente_shapes
+        population = gemeente_shapes['inhabitant']
+    if susceptible is None:
+        susceptible = population
+    if areas is None:
+        areas = list(mob.G.nodes)
+    # Diagonal entries in Next Generation Matrix are:
+    local_basic_reproduction_number = (
+            const.contacts_local * const.transmission_prob * const.infectious_period
+    )
+    # Off-diagonal entries depend on mobility times a constant factor
+    off_diagonal_factor = (
+            (1 - const.fraction_tested) * const.contacts_per_visit * const.transmission_prob * const.infectious_period
+    )
+    # Next Generation Matrix:
+    K = np.zeros((len(areas),len(areas)))
+    for (i,area),(j,other_area) in it.product(enumerate(areas),enumerate(areas)):
+        if i == j:
+            K[i, j] = local_basic_reproduction_number * susceptible[area] / population[area]
+        else:
+            K[i, j] = off_diagonal_factor * (
+                (mob[area,other_area] + mob[other_area,area]) / population[area]
+            ) * susceptible[other_area] / population[other_area]
+    return K
