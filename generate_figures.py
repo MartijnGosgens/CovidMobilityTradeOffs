@@ -172,7 +172,7 @@ def performances_plot(name,init_file,file_name=None,shown_starts=[],load_perform
                       label_x_offsets={},label_y_offsets={}):
     if file_name is None:
         file_name = name+'_comparison'
-    fig,ax = plt.subplots(figsize=(10,10))
+    fig,ax = plt.subplots(figsize=(8,8))
     if load_performances:
         import json
         results_file_name = name
@@ -205,7 +205,7 @@ def performances_plot(name,init_file,file_name=None,shown_starts=[],load_perform
         ]
         comp.plot_comparison(*comp.perform_comparison(name,init_file,constants=constants,save_results=True,**divisions),
                              label_x_offsets=label_x_offsets,label_y_offsets=label_y_offsets,ax=ax)
-    fig.savefig(file_name+'.pdf',bbox_inches='tight', transparent=True)
+    fig.savefig(file_name.replace('.','_')+'.pdf',bbox_inches='tight', transparent=True)
 
 
 
@@ -216,7 +216,7 @@ def performances_evenlydistributed(load_performances=True,constants=CoronaConsta
                       shown_starts=['Adaptive mobility regions res=200000'],
                       load_performances=load_performances,
                       constants=constants,
-                      label_x_offsets={'Security regions': -8,'Provinces':-5})
+                      label_x_offsets={'Security regions': -8,'Provinces':-5,'Max restrictions': 6,'Min restrictions': -5})
 # FIGURE 6b: concentrated performance plot
 def performances_concentrated(load_performances=True,constants=CoronaConstants):
     performances_plot(name="concentrated",
@@ -231,7 +231,7 @@ def performances_concentrated(load_performances=True,constants=CoronaConstants):
                       ],
                       load_performances=load_performances,
                       constants=constants,
-                      label_y_offsets={'Isolated security region': 1})
+                      label_x_offsets={'Max restrictions': 6,'Min restrictions': -5,'Isolated security region':-6,'Isolated municipality':-8})
 # FIGURE 7a: March 10th performance plot
 def performances_historical0310(load_performances=True,constants=CoronaConstants):
     performances_plot(name="historical0310",
@@ -244,7 +244,7 @@ def performances_historical0310(load_performances=True,constants=CoronaConstants
                       ],
                       load_performances=load_performances,
                       constants=constants,
-                      label_x_offsets={'Security regions': -8,'Provinces':-3})
+                      label_x_offsets={'Security regions': -8,'Provinces':-3,'Max restrictions': 6,'Min restrictions': -5,'Isolate Noord-Brabant':-2})
 # FIGURE 7b: April 21st performance plot
 def performances_historical0421(load_performances=True,constants=CoronaConstants):
     performances_plot(name="historical0421",
@@ -257,7 +257,7 @@ def performances_historical0421(load_performances=True,constants=CoronaConstants
                       ],
                       load_performances=load_performances,
                       constants=constants,
-                      label_x_offsets={'Security regions': -8,'Provinces':-3})
+                      label_x_offsets={'Security regions': -8,'Provinces':-3,'Max restrictions': 6,'Min restrictions': -5})
 
 def sensitivity_analysis(name,values,symbol,load_performances=True):
     for value in values:
@@ -273,7 +273,8 @@ def sensitivity_analysis(name,values,symbol,load_performances=True):
                               'Provinces'
                           ],
                           load_performances=load_performances,
-                          constants=CoronaConstants(**{name: value}))
+                          constants=CoronaConstants(**{name: value}),
+                          label_x_offsets={'Max restrictions': 6,'Min restrictions': -5,'Isolated security region':-6,'Isolated municipality':-8})
     
 # FIGURE 14a: Robustness with respect to fraction tested people
 def sensitivity_analysis_a(a_min=0.01 ,a_max=1, symbol="a",load_performances=True):

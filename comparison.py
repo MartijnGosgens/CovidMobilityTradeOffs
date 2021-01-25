@@ -289,17 +289,17 @@ def plot_comparison(mobility_performances,adaptive_mobility_performances,
         handles.append(Line2D([0], [0], color=c))
         labels.append(r"Optimized for $\gamma={}$".format(tradeoff))
     ax.legend(handles,labels)
-    ax.set_xlabel("Percentage mobility allowed")
-    ax.set_ylabel("Infections per 100.000")
+    ax.set_xlabel("Percentage mobility allowed",fontsize='large')
+    ax.set_ylabel("Infections per 100.000",fontsize='large')
     return ax
 
 def plot_division_performances(performances,ax=None, exp_fit=False,label_y_offsets={},label_x_offsets={}):
     if ax==None:
         fig, ax = plt.subplots(1, 1, figsize=(10,10))
     results_df = pd.DataFrame.from_dict(performances,orient='index')
-    results_df.plot.scatter(x='Mobility',y='Infections',ax=ax,marker='x',s=65)
+    results_df.plot.scatter(x='Mobility',y='Infections',ax=ax,marker='x',s=75)
 
-    y_offset = results_df['Infections'].max()/100
+    y_offset = (results_df['Infections'].max()-results_df['Infections'].min())/70
 
     for name, point in results_df.iterrows():
         y = point['Infections']+y_offset
