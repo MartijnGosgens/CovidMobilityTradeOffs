@@ -1,6 +1,15 @@
 # COVID tools
 
-The mobility data can be obtained by running `from COVID_tools.mobility import mobility`. 
+The mobility data can be obtained by running `from COVID_tools.mobility import mobility`. Mobility files must be CSV files with, for a given date and origin-destination pair, the following entries:
+- 'woon': origin location name
+- 'bezoek': destination location name
+- 'datum': date in DD-MM-YYYY format
+- 'bezoek_gemeente_id': ID of origin location (not necessary for running simulations)
+- 'woon_gemeente_id': ID of destination location (not necessary for running simulations)
+- 'totaal_aantal_bezoekers': # of travelers from origin to destination on given date
+- 'incidentele bezoeker': # of travelers from origin to destination on given date that makes this trip less than 3 times per month
+- 'regelmatige bezoeker': # of travelers from origin to destination on given date that makes this trip between 3 and 9 times per month
+- 'frequente bezoeker': # of travelers from origin to destination on given date that makes this trip more than 10 times per month
 
 The file `constants.py` contains the class `CoronaConstants`, which stores the parameters of the epidemiological model. By default, it will take the values used in the paper, but other parameter settings can be used by passing them to the constructor. For example,
 
@@ -47,3 +56,7 @@ plot_all(load_performances=True)
 
 This will load all the performances of the divisions from the folder `results/`. When `load_performances` is set to `False`, the performances will be re-computed by simulating the model for each division.
 
+
+
+Explanation of the implemented compartment model can be found in the paper:
+Martijn Gösgens, Teun Hendriks, Marko Boon, Wim Steenbakkers, Hans Heesterbeek, Remco van der Hofstad and Nelly Litvak (2021). Trade-offs between mobility restrictions and transmission of SARS-CoV-2. Journal of the Royal Society Interface, 18(175), 20200936. DOI: https://doi.org/10.1098/rsif.2020.0936
